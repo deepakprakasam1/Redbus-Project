@@ -1,0 +1,987 @@
+,route,name,type,departure_time,arrival_time,duration,price,seats_available,rating
+0,Bareilly to Delhi,UPSRTC - BLY0111,Janrath AC Seater 2+2,19:01,23:45,04h 44m,INR 598,34 Seats available,3.2
+1,Bareilly to Delhi,UPSRTC - HDD0063,Ordinary Non AC Seater 2+3,19:39,01:03,05h 24m,INR 415,52 Seats available,3.3
+2,Bareilly to Delhi,UPSRTC - RKD0128,Janrath AC Seater 2+2,20:01,01:01,05h 00m,INR 598,34 Seats available,4.1
+3,Bareilly to Delhi,UPSRTC - BRT0007,Ordinary Non AC Seater 2+3,21:25,04:00,06h 35m,INR 448,52 Seats available,3.3
+4,Bareilly to Delhi,UPSRTC - STD0354,Ordinary Non AC Seater 2+3,21:27,03:42,06h 15m,INR 448,52 Seats available,3.3
+5,Bareilly to Delhi,UPSRTC - BLY0139,Janrath AC Seater 2+2,21:31,03:30,05h 59m,INR 598,35 Seats available,3.1
+6,Bareilly to Delhi,UPSRTC - LNI0017,Rajdhani Non AC Seater 2+3,21:31,03:00,05h 29m,INR 418,51 Seats available,3.3
+7,Bareilly to Delhi,UPSRTC - RKD0121,Shatabdi AC Seater 2+2,22:01,03:01,05h 00m,INR 598,31 Seats available,3.2
+8,Bareilly to Delhi,UPSRTC - STD0163,Ordinary Non AC Seater 2+3,22:09,05:25,07h 16m,INR 448,52 Seats available,3.3
+9,Bareilly to Delhi,UPSRTC - KSB0008,Shatabdi AC Seater 2+2,22:30,04:45,06h 15m,INR 598,37 Seats available,3.2
+10,Bareilly to Delhi,UPSRTC - KSB0028,Shatabdi AC Seater 2+2,22:45,05:00,06h 15m,INR 598,37 Seats available,3.9
+11,Bareilly to Delhi,UPSRTC - HDD0005,Janrath AC Seater 2+2,22:45,05:30,06h 45m,INR 602,34 Seats available,3.3
+12,Bareilly to Delhi,UPSRTC - LKM0022,Shatabdi AC Seater 2+2,23:00,04:47,05h 47m,INR 604,37 Seats available,3.3
+13,Bareilly to Delhi,UPSRTC - STD0296,Ordinary Non AC Seater 2+3,23:13,06:31,07h 18m,INR 448,52 Seats available,No rating
+14,Bareilly to Delhi,UPSRTC - KSB0012,Volvo AC Seater 2+2,23:25,04:55,05h 30m,INR 844,36 Seats available,4.6
+15,Bareilly to Delhi,UPSRTC - AWD0224,Shatabdi AC Seater 2+2,23:30,05:00,05h 30m,INR 598,37 Seats available,3.3
+16,Bareilly to Delhi,UPSRTC - RKD0050,Shatabdi AC Seater 2+2,23:30,05:00,05h 30m,INR 598,37 Seats available,2.5
+17,Bareilly to Delhi,UPSRTC - STD0144,Ordinary Non AC Seater 2+3,23:36,06:16,06h 40m,INR 418,52 Seats available,3.3
+18,Bareilly to Delhi,UPSRTC - BLY0105,Shatabdi AC Seater 2+2,23:51,04:45,04h 54m,INR 598,27 Seats available,3.5
+19,Bareilly to Delhi,UPSRTC - RKD0126,Shatabdi AC Seater 2+2,23:58,05:00,05h 02m,INR 598,37 Seats available,2.4
+20,Bareilly to Delhi,UPSRTC - LKM0024,Ordinary Non AC Seater 2+3,23:59,06:00,06h 01m,INR 422,41 Seats available,3.3
+21,Bareilly to Delhi,Vijay Tour and Travels,Bharat Benz A/C Sleeper (2+1),19:00,01:10,06h 10m,739,19 Seats available,3.3
+22,Bareilly to Delhi,New Khaira TPT,AC Sleeper (2+1),23:15,05:00,05h 45m,INR 1200,1 Seat available,3.9
+23,Bareilly to Delhi,R S YADAV SMART BUS PRIVATE LIMITED,VE A/C Sleeper (2+1),23:59,06:05,06h 06m,INR 799,19 Seats available,3.4
+24,Bareilly to Delhi,Jaiswal Holidays,A/C Sleeper (2+1),22:40,04:30,05h 50m,INR 800,7 Seats available,2.9
+25,Bareilly to Delhi,Jaiswal Holidays,A/C Seater/Sleeper (2+1),22:21,04:41,06h 20m,INR 500,7 Seats available,2.9
+26,Bareilly to Delhi,SHRI RAM TRAVELS,A/C Seater (2+2),23:59,05:30,05h 31m,INR 705,13 Seats available,2.9
+27,Bareilly to Delhi,Jaiswal Tour and Travels,A/C Sleeper (2+1),22:50,04:35,05h 45m,INR 800,4 Seats available,2.8
+28,Aligarh (uttar pradesh) to Delhi,UPSRTC - BDV0108,Ordinary Non AC Seater 2+3,20:28,23:49,03h 21m,INR 203,52 Seats available,No rating
+29,Aligarh (uttar pradesh) to Delhi,UPSRTC - BDV0100,Ordinary Non AC Seater 2+3,20:30,23:50,03h 20m,INR 203,52 Seats available,3.3
+30,Delhi to Bareilly,UPSRTC - SBD0030,Pink Express AC Seater 2+2,19:00,01:00,06h 00m,INR 598,41 Seats available,3.3
+31,Delhi to Bareilly,UPSRTC - PLB0056,Rajdhani Non AC Seater 2+3,19:01,01:00,05h 59m,INR 454,51 Seats available,3.3
+32,Delhi to Bareilly,UPSRTC - RKD0113,Janrath AC Seater 2+2,19:01,00:31,05h 30m,INR 598,36 Seats available,1.6
+33,Delhi to Bareilly,UPSRTC - HDD0145,Ordinary Non AC Seater 2+3,19:02,03:10,08h 08m,INR 450,52 Seats available,No rating
+34,Delhi to Bareilly,UPSRTC - HDD0095,Ordinary Non AC Seater 2+3,19:02,02:45,07h 43m,INR 444,52 Seats available,No rating
+35,Delhi to Bareilly,UPSRTC - HDD0069,Ordinary Non AC Seater 2+3,19:29,23:40,04h 11m,INR 450,52 Seats available,3.3
+36,Delhi to Bareilly,UPSRTC - HDD0031,Ordinary Non AC Seater 2+3,19:45,03:10,07h 25m,INR 450,52 Seats available,3.3
+37,Delhi to Bareilly,UPSRTC - KSB0034,Shatabdi AC Seater 2+2,19:45,01:30,05h 45m,INR 598,36 Seats available,2.7
+38,Delhi to Bareilly,UPSRTC - HDD0105,Rajdhani Non AC Seater 2+3,20:00,01:41,05h 41m,INR 450,51 Seats available,3.3
+39,Delhi to Bareilly,UPSRTC - AWD0240,Janrath AC Seater 2+3,20:02,02:15,06h 13m,INR 520,48 Seats available,3.3
+40,Delhi to Bareilly,UPSRTC - HDD0147,Ordinary Non AC Seater 2+3,20:03,02:01,05h 58m,INR 444,52 Seats available,3.3
+41,Delhi to Bareilly,UPSRTC - LKM0023,Shatabdi AC Seater 2+2,20:03,01:45,05h 42m,INR 604,37 Seats available,3.3
+42,Delhi to Bareilly,UPSRTC - BRT0063,Ordinary Non AC Seater 2+3,20:30,03:40,07h 10m,INR 448,52 Seats available,3.3
+43,Delhi to Bareilly,UPSRTC - KSB0039,Janrath AC Seater 2+2,20:45,01:45,05h 00m,INR 598,36 Seats available,1.6
+44,Delhi to Bareilly,UPSRTC - SJP0210,Ordinary Non AC Seater 2+3,21:12,02:46,05h 34m,INR 454,52 Seats available,3.3
+45,Delhi to Bareilly,UPSRTC - RKD0125,Shatabdi AC Seater 2+2,21:22,02:22,05h 00m,INR 598,37 Seats available,3.1
+46,Delhi to Bareilly,UPSRTC - LKM0025,Shatabdi AC Seater 2+2,21:50,03:30,05h 40m,INR 604,34 Seats available,3.3
+47,Delhi to Bareilly,UPSRTC - BLY0141,Shatabdi AC Seater 2+2,22:00,03:30,05h 30m,INR 598,37 Seats available,2.5
+48,Delhi to Bareilly,UPSRTC - PLB0009,Shatabdi AC Seater 2+2,22:16,03:50,05h 34m,INR 598,29 Seats available,1.6
+49,Delhi to Bareilly,UPSRTC - SBD0092,Janrath AC Seater 2+2,22:30,03:50,05h 20m,INR 598,36 Seats available,3.3
+50,Delhi to Bareilly,UPSRTC - BLY0119,Shatabdi AC Seater 2+2,22:31,04:00,05h 29m,INR 598,37 Seats available,3.3
+51,Delhi to Bareilly,UPSRTC - RKD0118,Shatabdi AC Seater 2+2,22:44,03:44,05h 00m,INR 598,37 Seats available,3.2
+52,Delhi to Bareilly,UPSRTC - BLY0138,Janrath AC Seater 2+2,23:02,05:00,05h 58m,INR 598,36 Seats available,4.3
+53,Delhi to Bareilly,UPSRTC - KSB0050,Shatabdi AC Seater 2+2,23:15,05:15,06h 00m,INR 598,34 Seats available,3.3
+54,Delhi to Bareilly,UPSRTC - PLB0005,Shatabdi AC Seater 2+2,23:45,04:35,04h 50m,INR 598,34 Seats available,3.5
+55,Delhi to Bareilly,UPSRTC - RKD0120,Shatabdi AC Seater 2+2,23:58,05:00,05h 02m,INR 598,35 Seats available,4.1
+56,Delhi to Bareilly,Rahul Travels,AshokLeyland Stile A/C,21:30,03:30,06h 00m,INR 826,8 Seats available,1.6
+57,Delhi to Bareilly,Rahul Travels,AshokLeyland Stile A/C,21:00,02:30,05h 30m,INR 826,9 Seats available,1.9
+58,Delhi to Bareilly,SHRI RAM TRAVELS,A/C Seater (2+2),23:59,05:15,05h 16m,INR 740,17 Seats available,3.9
+59,Delhi to Bareilly,SHRI RAM TRAVELS,A/C Seater (2+2),18:00,23:15,05h 15m,INR 740,16 Seats available,3.4
+60,Delhi to Bareilly,SHRI RAM TRAVELS,A/C Seater (2+2),22:45,04:45,06h 00m,INR 740,17 Seats available,2.8
+61,Delhi to Bareilly,Jaiswal Tour and Travels,A/C Seater/Sleeper (2+1),20:30,02:30,06h 00m,INR 700,50 Seats available,1.7
+62,Delhi to Bareilly,SHRI RAM TRAVELS,A/C Seater (2+2),21:20,03:15,05h 55m,INR 705,16 Seats available,3.2
+63,Delhi to Bareilly,Jaiswal Tour and Travels,A/C Sleeper (2+1),20:45,02:45,06h 00m,INR 1650,30 Seats available,1.7
+64,Delhi to Bareilly,Jaiswal Tour and Travels,A/C Sleeper (2+1),21:00,03:00,06h 00m,INR 1200,29 Seats available,1.7
+65,Delhi to Aligarh (uttar pradesh),UPSRTC - HDD0159,Ordinary Non AC Seater 2+3,18:59,23:00,04h 01m,INR 250,52 Seats available,No rating
+66,Delhi to Aligarh (uttar pradesh),UPSRTC - HDD0025,Ordinary Non AC Seater 2+3,19:00,00:40,05h 40m,INR 252,52 Seats available,3.3
+67,Delhi to Aligarh (uttar pradesh),UPSRTC - HDD0111,Ordinary Non AC Seater 2+3,19:03,01:00,05h 57m,INR 255,52 Seats available,3.3
+68,Delhi to Aligarh (uttar pradesh),UPSRTC - HDD0174,Ordinary Non AC Seater 2+3,19:06,23:09,04h 03m,INR 255,52 Seats available,3.3
+69,Delhi to Aligarh (uttar pradesh),UPSRTC - BDV0089,Ordinary Non AC Seater 2+3,19:28,22:48,03h 20m,INR 203,52 Seats available,No rating
+70,Delhi to Aligarh (uttar pradesh),UPSRTC - BDV0103,Ordinary Non AC Seater 2+3,19:30,22:50,03h 20m,INR 203,52 Seats available,No rating
+71,Delhi to Aligarh (uttar pradesh),UPSRTC - HDD0163,Ordinary Non AC Seater 2+3,19:32,23:00,03h 28m,INR 252,52 Seats available,3.3
+72,Delhi to Aligarh (uttar pradesh),UPSRTC - HDD0131,Ordinary Non AC Seater 2+3,20:07,23:16,03h 09m,INR 255,52 Seats available,3.3
+73,Delhi to Aligarh (uttar pradesh),UPSRTC - HDD0173,Ordinary Non AC Seater 2+3,20:16,00:25,04h 09m,INR 226,52 Seats available,3.3
+74,Delhi to Aligarh (uttar pradesh),UPSRTC - BDV0111,Ordinary Non AC Seater 2+3,20:29,23:49,03h 20m,INR 203,52 Seats available,No rating
+75,Delhi to Aligarh (uttar pradesh),UPSRTC - ETH0075,Ordinary Non AC Seater 2+3,20:31,00:05,03h 34m,INR 255,52 Seats available,No rating
+76,Delhi to Aligarh (uttar pradesh),Chaturvedi Bus Service,NON A/C Seater/ Sleeper (2+1),22:00,01:30,03h 30m,INR 670,51 Seats available,2.6
+77,Delhi to Aligarh (uttar pradesh),Chaturvedi Bus Service,NON AC Seater / Sleeper 2+1,21:00,00:30,03h 30m,INR 670,45 Seats available,2.6
+78,Farrukhabad (Uttar Pradesh) to Delhi,UPSRTC - HDD0064,Ordinary Non AC Seater 2+3,19:09,04:11,09h 02m,INR 512,52 Seats available,3.3
+79,Farrukhabad (Uttar Pradesh) to Delhi,UPSRTC - FKP0027,Janrath AC Seater 2+2,20:00,04:55,08h 55m,INR 710,33 Seats available,3.3
+80,Farrukhabad (Uttar Pradesh) to Delhi,UPSRTC - SBD0106,Janrath AC Seater 2+2,20:31,05:00,08h 29m,INR 710,28 Seats available,3.7
+81,Farrukhabad (Uttar Pradesh) to Delhi,UPSRTC - FKP0029,Janrath AC Seater 2+2,21:00,05:55,08h 55m,INR 710,26 Seats available,4.4
+82,Farrukhabad (Uttar Pradesh) to Delhi,KVS Holidays,Non A/C Seater / Sleeper (2+1),20:30,05:30,09h 00m,INR 799,29 Seats available,1.0
+83,Farrukhabad (Uttar Pradesh) to Delhi,Chaturvedi Bus Service,NON A/C Seater/ Sleeper (2+1),20:00,05:15,09h 15m,INR 450,51 Seats available,3.5
+84,Farrukhabad (Uttar Pradesh) to Delhi,Shree Krishna Shtabadi Travels,NON A/C Sleeper (2+1),19:00,06:30,11h 30m,INR 1200,32 Seats available,1.4
+85,Farrukhabad (Uttar Pradesh) to Delhi,Abhay Travels (I.R.T.C),Non A/C Seater / Sleeper (2+1),18:00,06:00,12h 00m,INR 1200,55 Seats available,No rating
+86,Farrukhabad (Uttar Pradesh) to Delhi,Yuvraj Travels,NON AC Seater / Sleeper 2+1,18:45,05:00,10h 15m,450,40 Seats available,No rating
+87,Farrukhabad (Uttar Pradesh) to Delhi,Yuvraj Travels,NON AC Seater / Sleeper 2+1,19:00,05:00,10h 00m,450,40 Seats available,No rating
+88,Farrukhabad (Uttar Pradesh) to Delhi,Yuvraj Travels,NON AC Seater / Sleeper 2+1,18:30,06:00,11h 30m,450,40 Seats available,No rating
+89,Farrukhabad (Uttar Pradesh) to Delhi,Shree Krishna Shtabadi Travels,NON AC Seater / Sleeper 2+1,18:30,05:20,10h 50m,INR 600,44 Seats available,1.4
+90,Farrukhabad (Uttar Pradesh) to Delhi,Shivendra Travels,A/C Sleeper (2+1),20:00,05:30,09h 30m,INR 3500,1 Seat available,No rating
+91,Badaun to Delhi,UPSRTC - BDN0022,Ordinary Non AC Seater 2+3,20:00,02:00,06h 00m,INR 403,52 Seats available,3.3
+92,Badaun to Delhi,UPSRTC - KSB0004,Shatabdi AC Seater 2+2,23:00,05:00,06h 00m,INR 505,22 Seats available,3.2
+93,Lucknow to Allahabad,UPSRTC - RBL0010,Ordinary Non AC Seater 2+3,19:00,00:00,05h 00m,INR 310,52 Seats available,3.3
+94,Lucknow to Allahabad,UPSRTC - PYD0157,Janrath AC Seater 2+3,19:01,23:01,04h 00m,INR 396,48 Seats available,3.3
+95,Lucknow to Allahabad,UPSRTC - ALM0019,Volvo AC Seater 2+2,19:30,23:59,04h 29m,INR 658,37 Seats available,3.3
+96,Lucknow to Allahabad,UPSRTC - RBL0014,Ordinary Non AC Seater 2+3,19:40,00:40,05h 00m,INR 310,52 Seats available,3.3
+97,Lucknow to Allahabad,UPSRTC - MZP0014,Ordinary Non AC Seater 2+3,20:00,01:28,05h 28m,INR 310,52 Seats available,3.3
+98,Lucknow to Allahabad,UPSRTC - ALM0021,Volvo AC Seater 2+2,20:30,01:00,04h 30m,INR 658,39 Seats available,3.3
+99,Lucknow to Allahabad,UPSRTC - RBL0018,Ordinary Non AC Seater 2+3,20:40,01:40,05h 00m,INR 310,52 Seats available,3.3
+100,Lucknow to Allahabad,UPSRTC - AWD0035,Janrath AC Seater 2+3,21:00,02:00,05h 00m,INR 396,48 Seats available,1.0
+101,Lucknow to Allahabad,UPSRTC - RBL0022,Ordinary Non AC Seater 2+3,21:20,02:20,05h 00m,INR 310,52 Seats available,3.3
+102,Lucknow to Allahabad,UPSRTC - RBL0026,Ordinary Non AC Seater 2+3,22:00,03:00,05h 00m,INR 310,52 Seats available,3.3
+103,Lucknow to Allahabad,UPSRTC - CBG0144,Shatabdi AC Seater 2+2,22:00,02:00,04h 00m,INR 458,37 Seats available,1.7
+104,Lucknow to Allahabad,UPSRTC - RBL0030,Ordinary Non AC Seater 2+3,22:40,03:40,05h 00m,INR 310,52 Seats available,3.2
+105,Lucknow to Allahabad,UPSRTC - AWD0201,Janrath AC Seater 2+3,23:00,04:15,05h 15m,INR 396,48 Seats available,2.2
+106,Lucknow to Allahabad,UPSRTC - RBL0034,Ordinary Non AC Seater 2+3,23:20,04:20,05h 00m,INR 310,52 Seats available,2.0
+107,Lucknow to Allahabad,Sethi Yatra Company,A/C Seater / Sleeper (2+1),22:30,03:00,04h 30m,INR 399,19 Seats available,3.1
+108,Lucknow to Allahabad,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:15,03:45,04h 30m,INR 449,14 Seats available,3.1
+109,Lucknow to Allahabad,Goyal Travels,VE A/C Seater / Sleeper (2+1),23:49,03:55,04h 06m,INR 500,12 Seats available,2.2
+110,Lucknow to Varanasi,UPSRTC - CHL0019,Ordinary Non AC Seater 2+3,19:00,01:45,06h 45m,INR 475,52 Seats available,3.3
+111,Lucknow to Varanasi,UPSRTC - CNT0039,Ordinary Non AC Seater 2+3,19:30,02:30,07h 00m,INR 475,51 Seats available,3.3
+112,Lucknow to Varanasi,UPSRTC - CNT0043,Ordinary Non AC Seater 2+3,20:00,03:00,07h 00m,INR 475,51 Seats available,3.3
+113,Lucknow to Varanasi,UPSRTC - CBG0042,Shatabdi AC Seater 2+2,20:00,02:30,06h 30m,INR 690,37 Seats available,3.3
+114,Lucknow to Varanasi,UPSRTC - JNP0013,Ordinary Non AC Seater 2+3,20:20,03:00,06h 40m,INR 475,52 Seats available,3.3
+115,Lucknow to Varanasi,UPSRTC - CNT0041,Ordinary Non AC Seater 2+3,20:30,03:30,07h 00m,INR 475,51 Seats available,3.3
+116,Lucknow to Varanasi,UPSRTC - JNP0012,Ordinary Non AC Seater 2+3,20:30,04:00,07h 30m,INR 475,52 Seats available,3.3
+117,Lucknow to Varanasi,UPSRTC - ALM0068,Shatabdi AC Seater 2+2,20:45,03:30,06h 45m,INR 698,41 Seats available,2.9
+118,Lucknow to Varanasi,UPSRTC - CNT0047,Ordinary Non AC Seater 2+3,21:00,04:00,07h 00m,INR 475,51 Seats available,3.3
+119,Lucknow to Varanasi,UPSRTC - CNT0029,Ordinary Non AC Seater 2+3,21:25,04:59,07h 34m,INR 475,51 Seats available,3.3
+120,Lucknow to Varanasi,UPSRTC - ALM0043,Volvo AC Seater 2+2,22:00,04:00,06h 00m,INR 996,37 Seats available,3.9
+121,Lucknow to Varanasi,UPSRTC - CBG0144,Shatabdi AC Seater 2+2,22:00,05:30,07h 30m,INR 724,37 Seats available,3.3
+122,Lucknow to Varanasi,UPSRTC - CNT0057,Ordinary Non AC Seater 2+3,22:30,05:30,07h 00m,INR 475,52 Seats available,3.3
+123,Lucknow to Varanasi,UPSRTC - ALM0048,Shatabdi AC Seater 2+2,22:30,05:30,07h 00m,INR 698,36 Seats available,3.9
+124,Lucknow to Varanasi,UPSRTC - CNT0031,Ordinary Non AC Seater 2+3,23:00,05:30,06h 30m,INR 475,51 Seats available,3.3
+125,Lucknow to Varanasi,UPSRTC - GLA0137,Janrath AC Seater 2+2,23:05,05:31,06h 26m,INR 698,36 Seats available,3.3
+126,Lucknow to Varanasi,UPSRTC - HDD0001,Janrath AC Seater 2+2,23:30,07:30,08h 00m,INR 690,36 Seats available,1.8
+127,Lucknow to Varanasi,UPSRTC - CNT0035,Ordinary Non AC Seater 2+3,23:30,06:30,07h 00m,INR 475,51 Seats available,3.3
+128,Lucknow to Varanasi,Sethi Yatra Company,A/C Seater / Sleeper (2+1),22:30,05:55,07h 25m,INR 399,13 Seats available,4.5
+129,Lucknow to Varanasi,Yolo Bus,A/C Sleeper (2+1),22:19,05:43,07h 24m,INR 549,18 Seats available,3.8
+130,Lucknow to Varanasi,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:15,05:45,06h 30m,INR 449,10 Seats available,3.9
+131,Lucknow to Varanasi,Goyal Travels,VE A/C Seater / Sleeper (2+1),23:49,06:20,06h 31m,INR 500,12 Seats available,2.0
+132,Delhi to Badaun,UPSRTC - BDN0044,Ordinary Non AC Seater 2+3,19:00,01:30,06h 30m,INR 411,52 Seats available,3.3
+133,Delhi to Badaun,UPSRTC - BDN0046,Ordinary Non AC Seater 2+3,21:00,03:30,06h 30m,INR 411,52 Seats available,3.3
+134,Delhi to Badaun,UPSRTC - KSB0005,Shatabdi AC Seater 2+2,23:00,05:00,06h 00m,INR 505,23 Seats available,2.3
+135,Agra to Bareilly,UPSRTC - BLY0134,Janrath AC Seater 2+2,23:05,05:00,05h 55m,INR 486,31 Seats available,4.4
+136,Allahabad to Lucknow,UPSRTC - PYD0158,Janrath AC Seater 2+3,19:01,23:31,04h 30m,INR 396,48 Seats available,3.3
+137,Allahabad to Lucknow,UPSRTC - PYD0025,Volvo AC Seater 2+2,19:30,23:59,04h 29m,INR 658,39 Seats available,3.3
+138,Allahabad to Lucknow,UPSRTC - PYD0027,Volvo AC Seater 2+2,20:30,01:00,04h 30m,INR 658,39 Seats available,3.3
+139,Allahabad to Lucknow,UPSRTC - HDD0050,Rajdhani Non AC Seater 2+3,21:30,02:20,04h 50m,INR 318,51 Seats available,3.3
+140,Allahabad to Lucknow,UPSRTC - LDR0016,Janrath AC Seater 2+3,22:00,03:00,05h 00m,INR 396,48 Seats available,2.4
+141,Allahabad to Lucknow,UPSRTC - LDR0018,Janrath AC Seater 2+3,23:00,03:45,04h 45m,INR 396,48 Seats available,2.7
+142,Allahabad to Lucknow,Sethi Yatra Company,A/C Seater / Sleeper (2+1),18:30,23:50,05h 20m,648,7 Seats available,3.0
+143,Allahabad to Lucknow,Sethi Yatra Company,A/C Seater/Sleeper (2+1),23:59,06:00,06h 01m,INR 399,21 Seats available,3.0
+144,Allahabad to Lucknow,Goyal Travels,A/C Seater / Sleeper (2+1),18:35,23:25,04h 50m,INR 1399,1 Seat available,2.6
+145,Allahabad to Lucknow,First Choice Holidays,A/C Seater / Sleeper (2+2),21:15,23:55,02h 40m,INR 5000,54 Seats available,2.2
+146,Sitapur (Uttar Pradesh) to Delhi,UPSRTC - STD0356,Ordinary Non AC Seater 2+3,18:46,06:03,11h 17m,INR 697,52 Seats available,No rating
+147,Sitapur (Uttar Pradesh) to Delhi,UPSRTC - STD0158,Ordinary Non AC Seater 2+3,19:00,06:57,11h 57m,INR 666,52 Seats available,No rating
+148,Sitapur (Uttar Pradesh) to Delhi,UPSRTC - STD0144,Ordinary Non AC Seater 2+3,19:00,06:30,11h 30m,INR 697,52 Seats available,3.3
+149,Sitapur (Uttar Pradesh) to Delhi,UPSRTC - STD0072,Janrath AC Seater 2+2,20:30,05:45,09h 15m,INR 955,25 Seats available,3.3
+150,Sitapur (Uttar Pradesh) to Delhi,UPSRTC - SBD0047,Pink Express AC Seater 2+2,21:00,06:00,09h 00m,INR 955,35 Seats available,2.7
+151,Sitapur (Uttar Pradesh) to Delhi,UPSRTC - BRT0037,Ordinary Non AC Seater 2+3,21:10,08:00,10h 50m,INR 698,52 Seats available,3.3
+152,Sitapur (Uttar Pradesh) to Delhi,UPSRTC - AWD0116,Janrath AC Seater 2+3,21:30,07:30,10h 00m,INR 827,47 Seats available,2.1
+153,Sitapur (Uttar Pradesh) to Delhi,UPSRTC - BRT0066,Ordinary Non AC Seater 2+3,21:40,08:35,10h 55m,INR 697,52 Seats available,3.3
+154,Sitapur (Uttar Pradesh) to Delhi,UPSRTC - SBD0093,Janrath AC Seater 2+2,22:40,07:00,08h 20m,INR 955,35 Seats available,2.8
+155,Sitapur (Uttar Pradesh) to Delhi,UPSRTC - SBD0055,Pink Express AC Seater 2+2,23:30,09:00,09h 30m,INR 955,40 Seats available,3.4
+156,Sitapur (Uttar Pradesh) to Delhi,R S YADAV SMART BUS PRIVATE LIMITED,VE A/C Sleeper (2+1),20:45,06:05,09h 20m,INR 799,19 Seats available,4.7
+157,Delhi to Farrukhabad (Uttar Pradesh),UPSRTC - HDD0111,Ordinary Non AC Seater 2+3,19:03,05:05,10h 02m,INR 512,52 Seats available,3.3
+158,Delhi to Farrukhabad (Uttar Pradesh),UPSRTC - HDD0174,Ordinary Non AC Seater 2+3,19:06,03:00,07h 54m,INR 512,52 Seats available,No rating
+159,Delhi to Farrukhabad (Uttar Pradesh),UPSRTC - HDD0173,Ordinary Non AC Seater 2+3,20:16,02:40,06h 24m,INR 482,52 Seats available,3.3
+160,Delhi to Farrukhabad (Uttar Pradesh),UPSRTC - SBD0107,Janrath AC Seater 2+2,20:31,05:00,08h 29m,INR 710,26 Seats available,3.2
+161,Delhi to Farrukhabad (Uttar Pradesh),UPSRTC - KSB0072,Janrath AC Seater 2+3,22:02,06:02,08h 00m,INR 612,42 Seats available,3.9
+162,Delhi to Farrukhabad (Uttar Pradesh),KVS Holidays,Non A/C Seater / Sleeper (2+1),21:30,06:30,09h 00m,INR 655,31 Seats available,1.1
+163,Delhi to Farrukhabad (Uttar Pradesh),Chaturvedi Bus Service,NON A/C Seater/ Sleeper (2+1),19:30,06:30,11h 00m,INR 520,51 Seats available,2.0
+164,Delhi to Farrukhabad (Uttar Pradesh),Shree Krishna Shtabadi Travels,NON AC Seater / Sleeper 2+1,21:00,06:00,09h 00m,INR 600,44 Seats available,1.4
+165,Delhi to Farrukhabad (Uttar Pradesh),Abhay Travels (I.R.T.C),Non A/C Seater / Sleeper (2+1),20:30,06:00,09h 30m,INR 1300,30 Seats available,No rating
+166,Delhi to Farrukhabad (Uttar Pradesh),Yuvraj Travels,NON AC Seater / Sleeper 2+1,22:00,06:00,08h 00m,450,40 Seats available,No rating
+167,Delhi to Farrukhabad (Uttar Pradesh),Yuvraj Travels,NON AC Seater / Sleeper 2+1,21:30,06:00,08h 30m,450,40 Seats available,No rating
+168,Delhi to Farrukhabad (Uttar Pradesh),Chaturvedi Bus Service,NON A/C Seater/ Sleeper (2+1),22:00,07:10,09h 10m,INR 670,51 Seats available,2.0
+169,Delhi to Farrukhabad (Uttar Pradesh),Chaturvedi Bus Service,NON AC Seater / Sleeper 2+1,21:00,06:10,09h 10m,INR 670,45 Seats available,2.0
+170,Delhi to Farrukhabad (Uttar Pradesh),Shree Krishna Shtabadi Travels,NON A/C Sleeper (2+1),21:00,06:30,09h 30m,INR 1200,32 Seats available,1.4
+171,Delhi to Farrukhabad (Uttar Pradesh),Shivendra Travels,A/C Sleeper (2+1),21:00,06:00,09h 00m,INR 3500,1 Seat available,No rating
+172,Delhi to Farrukhabad (Uttar Pradesh),Yuvraj Travels,NON AC Seater / Sleeper 2+1,20:00,06:00,10h 00m,450,40 Seats available,No rating
+173,Moradabad to Delhi,UPSRTC - MDD0064,Janrath AC Seater 2+2,19:15,23:15,04h 00m,INR 382,36 Seats available,3.3
+174,Moradabad to Delhi,UPSRTC - BRT0007,Ordinary Non AC Seater 2+3,23:50,04:00,04h 10m,INR 293,52 Seats available,3.3
+175,Moradabad to Delhi,Vijay Tour and Travels,A/C Seater Push Back (2+3),19:10,23:20,04h 10m,508,49 Seats available,4.4
+176,Moradabad to Delhi,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),19:20,23:10,03h 50m,554,23 Seats available,4.5
+177,Moradabad to Delhi,Vijay Tour and Travels,Bharat Benz A/C Sleeper (2+1),21:30,01:10,03h 40m,647,17 Seats available,4.9
+178,Moradabad to Delhi,Rinku Travels,A/C Seater / Sleeper (2+1),21:45,02:30,04h 45m,INR 500,42 Seats available,3.1
+179,Moradabad to Delhi,Vijay Tour and Travels,A/C Seater / Sleeper (2+1),22:00,01:30,03h 30m,508,38 Seats available,4.5
+180,Moradabad to Delhi,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:16,02:00,03h 44m,INR 599,6 Seats available,3.8
+181,Moradabad to Delhi,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:30,03:30,04h 00m,INR 649,14 Seats available,3.4
+182,Moradabad to Delhi,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),23:55,04:00,04h 05m,INR 474,41 Seats available,3.9
+183,Moradabad to Delhi,Fasttrack Travels,A/C Seater/Sleeper (2+1),23:58,04:40,04h 42m,499,46 Seats available,3.0
+184,Moradabad to Delhi,Fasttrack Travels,VE A/C Seater / Sleeper (2+2),23:55,04:30,04h 35m,499,48 Seats available,2.9
+185,Delhi to Haridwar,UPSRTC - SRG0136,Ordinary Non AC Seater 2+3,23:00,04:30,05h 30m,INR 416,52 Seats available,2.1
+186,Delhi to Haridwar,City Land Travels,Volvo A/C Semi Sleeper (2+2),17:55,22:10,04h 15m,INR 388,16 Seats available,3.4
+187,Delhi to Haridwar,NueGo,Electric A/C Seater (2+2),20:35,02:45,06h 10m,332,25 Seats available,3.8
+188,Delhi to Haridwar,AdCity Land Travels,A/C Seater / Sleeper (2+2),23:00,04:25,05h 25m,INR 348,46 Seats available,3.8
+189,Delhi to Haridwar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:40,02:55,06h 15m,INR 352,17 Seats available,4.1
+190,Delhi to Haridwar,JMD Travels,A/C Seater (2+2),21:30,03:50,06h 20m,INR 299,38 Seats available,3.3
+191,Delhi to Haridwar,NueGo,Electric A/C Seater (2+2),21:35,04:10,06h 35m,332,26 Seats available,3.8
+192,Delhi to Haridwar,AdCity Land Travels,A/C Sleeper (2+1),22:30,04:45,06h 15m,INR 310,24 Seats available,3.8
+193,Delhi to Haridwar,IntrCity SmartBus,A/C Sleeper (2+2),21:45,04:00,06h 15m,INR 433,29 Seats available,4.2
+194,Delhi to Haridwar,City Land Travels,A/C Sleeper (2+1),21:50,04:00,06h 10m,INR 350,31 Seats available,4.1
+195,Delhi to Haridwar,City Land Travels,A/C Sleeper (2+1),21:50,03:25,05h 35m,INR 340,30 Seats available,3.6
+196,Delhi to Haridwar,Ram Pratap Travels,AC Seater (2+2),22:00,05:10,07h 10m,INR 349,28 Seats available,3.7
+197,Delhi to Haridwar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:00,03:25,05h 25m,INR 320,26 Seats available,4.2
+198,Delhi to Haridwar,City Land Travels,A/C Sleeper (2+1),22:20,03:25,05h 05m,INR 350,26 Seats available,3.7
+199,Delhi to Haridwar,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),22:20,03:10,04h 50m,475,14 Seats available,4.4
+200,Delhi to Haridwar,City Land Travels,A/C Sleeper (2+1),22:20,04:15,05h 55m,INR 348,38 Seats available,4.1
+201,Delhi to Haridwar,TSB Tour express,AC Seater (2+2),22:29,04:05,05h 36m,359,34 Seats available,3.5
+202,Delhi to Haridwar,NueGo,Electric A/C Seater (2+2),22:35,04:45,06h 10m,342,22 Seats available,4.0
+203,Delhi to Haridwar,TSB Tour express,AC Seater (2+2),22:40,04:05,05h 25m,368,30 Seats available,3.6
+204,Delhi to Haridwar,FlixBus,A/C Seater (2+2),22:40,04:20,05h 40m,INR 375,17 Seats available,3.9
+205,Delhi to Haridwar,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:45,04:15,05h 30m,INR 398,28 Seats available,4.4
+206,Delhi to Haridwar,AG BUS SERVICE,AC Seater (2+2),22:50,04:00,05h 10m,INR 284.76,22 Seats available,3.5
+207,Delhi to Haridwar,City Land Travels,Volvo A/C Semi Sleeper (2+2),22:55,04:30,05h 35m,INR 348,29 Seats available,3.3
+208,Delhi to Haridwar,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:00,04:00,05h 00m,INR 399,23 Seats available,4.4
+209,Delhi to Haridwar,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),23:00,04:35,05h 35m,INR 338,28 Seats available,4.8
+210,Delhi to Haridwar,Zingbus Plus,Bharat Benz A/C Seater (2+2),23:00,04:25,05h 25m,329,40 Seats available,5.0
+211,Delhi to Haridwar,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),23:00,05:45,06h 45m,INR 199,11 Seats available,3.6
+212,Delhi to Haridwar,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),23:00,04:00,05h 00m,INR 299,28 Seats available,4.7
+213,Delhi to Haridwar,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:00,03:55,04h 55m,475,13 Seats available,4.4
+214,Delhi to Haridwar,AG BUS SERVICE,A/C Seater Push Back (2+2),23:10,03:41,04h 31m,INR 299,25 Seats available,4.2
+215,Delhi to Haridwar,Zingbus Plus,Bharat Benz A/C Seater (2+2),23:15,04:45,05h 30m,364,20 Seats available,4.3
+216,Delhi to Haridwar,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:15,03:45,04h 30m,INR 380,31 Seats available,4.6
+217,Delhi to Haridwar,WELCOME TOUR & TRAVELS,AC Seater (2+2),23:20,05:00,05h 40m,367,37 Seats available,5.0
+218,Delhi to Haridwar,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:20,04:00,04h 40m,475,16 Seats available,4.3
+219,Delhi to Haridwar,WELCOME TOUR & TRAVELS,A/C Seater Push Back (2+2),23:30,03:45,04h 15m,367,24 Seats available,5.0
+220,Delhi to Haridwar,TSB Tour express,AC Seater (2+2),23:30,05:10,05h 40m,359,31 Seats available,3.6
+221,Delhi to Haridwar,Zingbus Plus,Bharat Benz A/C Seater (2+2),23:45,04:05,04h 20m,329,32 Seats available,4.4
+222,Delhi to Haridwar,Shree Hare Rama Travels,A/C Semi Sleeper (2+2),23:50,04:45,04h 55m,INR 299,27 Seats available,3.5
+223,Delhi to Haridwar,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:50,04:25,04h 35m,475,17 Seats available,4.4
+224,Delhi to Haridwar,Shree Hare Rama Travels,A/C Seater / Sleeper (2+2),23:55,05:30,05h 35m,379,36 Seats available,3.6
+225,Delhi to Haridwar,Crown Travels,Bharat Benz A/C Semi Sleeper (2+2),23:55,05:30,05h 35m,INR 299,37 Seats available,3.1
+226,Delhi to Haridwar,Shree Hare Rama Travels,VE A/C Semi Sleeper (2+2),23:55,04:45,04h 50m,INR 299,17 Seats available,3.0
+227,Delhi to Haridwar,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:55,04:25,04h 30m,480,9 Seats available,4.5
+228,Delhi to Haridwar,FlixBus,A/C Seater (2+2),23:55,05:00,05h 05m,INR 342,36 Seats available,3.9
+229,Delhi to Haridwar,Hill Travels,A/C Seater / Sleeper (2+1),22:40,03:06,04h 26m,INR 399,26 Seats available,2.0
+230,Delhi to Haridwar,Himanshu bus Service,A/C Seater (2+2),23:00,04:30,05h 30m,449,49 Seats available,1.0
+231,Delhi to Haridwar,Royal Travels Hills,Bharat Benz A/C Seater (2+2),23:00,05:00,06h 00m,INR 599,29 Seats available,1.9
+232,Delhi to Haridwar,Crown Travels,A/C Sleeper (2+1),23:00,04:50,05h 50m,INR 399,24 Seats available,1.3
+233,Delhi to Haridwar,Hans India Tour,A/C Seater / Sleeper (2+2),23:05,04:45,05h 40m,INR 399,28 Seats available,2.3
+234,Delhi to Haridwar,Hans India Tour,A/C Seater / Sleeper (2+2),23:05,04:30,05h 25m,INR 399,24 Seats available,2.4
+235,Delhi to Haridwar,Hill Travels,A/C Seater / Sleeper (2+1),23:10,03:30,04h 20m,INR 399,32 Seats available,2.0
+236,Delhi to Haridwar,Crown Travels,A/C Seater Push Back (2+2),23:25,04:50,05h 25m,INR 299,31 Seats available,2.5
+237,Delhi to Haridwar,Crown Travels,A/C Seater / Sleeper (2+2),23:30,04:50,05h 20m,INR 299,34 Seats available,1.4
+238,Delhi to Haridwar,NueGo,Electric A/C Seater (2+2),23:30,05:40,06h 10m,420,19 Seats available,2.7
+239,Delhi to Haridwar,Crown Travels,A/C Seater / Sleeper (2+2),23:30,05:00,05h 30m,INR 299,51 Seats available,1.2
+240,Delhi to Haridwar,Himanshu bus Service,A/C Seater (2+2),23:30,04:50,05h 20m,449,49 Seats available,1.0
+241,Delhi to Haridwar,Shishpal Bus Service,A/C Seater Push Back (2+2),23:50,05:35,05h 45m,INR 450,36 Seats available,2.8
+242,Delhi to Haridwar,Shree Hare Rama Travels,A/C Seater/Sleeper (2+1),23:59,05:00,05h 01m,INR 299,31 Seats available,2.0
+243,Delhi to Haridwar,Crown Travels,A/C Seater / Sleeper (2+2),23:59,05:00,05h 01m,INR 299,14 Seats available,2.3
+244,Delhi to Haridwar,Revanta Roadlines,NON A/C Seater / Sleeper (2+2),21:45,02:25,04h 40m,1800,48 Seats available,3.9
+245,Delhi to Haridwar,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),22:30,05:00,06h 30m,719,44 Seats available,3.5
+246,Delhi to Haridwar,Blueworld tourist private limited,AC Seater (2+2),22:30,05:45,07h 15m,INR 699,31 Seats available,3.7
+247,Delhi to Haridwar,AG BUS SERVICE,A/C Seater / Sleeper (2+1),22:50,03:21,04h 31m,INR 699,40 Seats available,3.8
+248,Delhi to Haridwar,Aadishakti Travels,Bharat Benz A/C Seater (2+2),22:55,04:35,05h 40m,INR 1999,45 Seats available,3.7
+249,Delhi to Haridwar,Gola Bus Service,VE A/C Seater / Sleeper (2+1),23:00,04:10,05h 10m,INR 999,45 Seats available,4.6
+250,Delhi to Haridwar,Revanta Roadlines,NON A/C Seater / Sleeper (2+2),23:45,04:45,05h 00m,1800,48 Seats available,3.9
+251,Delhi to Haridwar,International Tourist Centre,A/C Seater Push Back (2+2),23:45,04:45,05h 00m,INR 899,22 Seats available,4.2
+252,Delhi to Haridwar,International Tourist Centre,A/C Seater Push Back (2+2),23:59,05:00,05h 01m,INR 899,35 Seats available,4.2
+253,Delhi to Haridwar,India Tours & Travels (GetBookCab),A/C Seater Push Back (2+2),21:00,03:00,06h 00m,700,27 Seats available,2.7
+254,Delhi to Haridwar,India Tours & Travels (GetBookCab),A/C Seater Push Back (2+2),21:30,04:00,06h 30m,787,27 Seats available,1.7
+255,Delhi to Haridwar,Regal Cruiser Travels,A/C Seater/Sleeper (2+1),21:45,04:00,06h 15m,INR 549,23 Seats available,2.5
+256,Delhi to Haridwar,Shri Krishna Travels & Cargo,AC Seater (2+2),22:00,05:00,07h 00m,INR 650,23 Seats available,No rating
+257,Delhi to Haridwar,Shri Krishna Bus Service,A/C Seater / Sleeper (2+1),22:05,03:50,05h 45m,1387,31 Seats available,2.6
+258,Delhi to Haridwar,Shri Krishna Bus Service,A/C Seater / Sleeper (2+1),22:40,02:10,03h 30m,528,40 Seats available,2.6
+259,Delhi to Haridwar,Classic Travels,A/C Seater/Sleeper (2+1),22:55,03:55,05h 00m,INR 659,27 Seats available,2.7
+260,Delhi to Haridwar,NKS Holidays,A/C Seater / Sleeper (2+2),23:00,03:50,04h 50m,INR 951.43,50 Seats available,2.9
+261,Delhi to Haridwar,Hans India Tour,A/C Seater/Sleeper (2+1),23:05,04:45,05h 40m,INR 1299,17 Seats available,2.4
+262,Delhi to Haridwar,Hill Travels,AC Seater (2+2),23:15,03:43,04h 28m,INR 599,33 Seats available,1.7
+263,Delhi to Haridwar,Shri Krishna Bus Service,A/C Seater / Sleeper (2+1),23:16,04:06,04h 50m,924,26 Seats available,2.6
+264,Delhi to Haridwar,Laxmi holidays,Bharat Benz A/C Seater (2+2),23:30,04:50,05h 20m,570,16 Seats available,2.2
+265,Delhi to Haridwar,Hans India Tour,A/C Seater Push Back (2+2),23:30,05:00,05h 30m,INR 799,35 Seats available,2.7
+266,Delhi to Haridwar,PRAKASH TOURISM,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),23:30,03:30,04h 00m,INR 899,49 Seats available,No rating
+267,Delhi to Sitapur (Uttar Pradesh),UPSRTC - SBD0030,Pink Express AC Seater 2+2,19:00,05:00,10h 00m,INR 955,41 Seats available,3.0
+268,Delhi to Sitapur (Uttar Pradesh),UPSRTC - AWD0240,Janrath AC Seater 2+3,20:02,05:30,09h 28m,INR 827,48 Seats available,3.3
+269,Delhi to Sitapur (Uttar Pradesh),UPSRTC - SBD0032,Pink Express AC Seater 2+2,21:30,07:15,09h 45m,INR 955,38 Seats available,2.5
+270,Delhi to Sitapur (Uttar Pradesh),UPSRTC - SBD0092,Janrath AC Seater 2+2,22:30,06:45,08h 15m,INR 955,35 Seats available,2.8
+271,Bareilly to Agra,UPSRTC - AGF0050,Shatabdi AC Seater 2+2,22:46,04:45,05h 59m,INR 486,32 Seats available,3.0
+272,Agra to Lucknow,UPSRTC - AGF0008,Rajdhani Non AC Seater 2+3,20:00,02:00,06h 00m,INR 527,50 Seats available,3.3
+273,Agra to Lucknow,UPSRTC - AWD0010,Janrath AC Seater 2+2,20:00,02:13,06h 13m,INR 760,36 Seats available,3.3
+274,Agra to Lucknow,UPSRTC - MTH0003,Rajdhani Non AC Seater 2+3,20:30,01:35,05h 05m,INR 527,51 Seats available,3.3
+275,Agra to Lucknow,UPSRTC - BDV0079,Janrath AC Seater 2+2,20:30,01:30,05h 00m,INR 760,36 Seats available,3.3
+276,Agra to Lucknow,UPSRTC - CBG0014,Pink Express AC Seater 2+2,21:00,03:00,06h 00m,INR 760,41 Seats available,3.3
+277,Agra to Lucknow,UPSRTC - AWD0024,Pink Express AC Seater 2+2,22:00,04:13,06h 13m,INR 760,41 Seats available,3.0
+278,Agra to Lucknow,UPSRTC - MTH0022,Ordinary Non AC Seater 2+3,22:00,03:30,05h 30m,INR 527,52 Seats available,3.3
+279,Agra to Lucknow,UPSRTC - AWD0199,Pink Express AC Seater 2+2,22:30,04:00,05h 30m,INR 760,40 Seats available,3.7
+280,Agra to Lucknow,UPSRTC - HTR0132,Ordinary Non AC Seater 2+3,23:00,04:30,05h 30m,INR 527,52 Seats available,3.3
+281,Agra to Lucknow,UPSRTC - BDV0077,Janrath AC Seater 2+2,23:59,05:00,05h 01m,INR 760,30 Seats available,3.3
+282,Agra to Lucknow,RSRTC - 192993,A/C Seater / Sleeper (2+1),23:30,04:20,04h 50m,INR 891,15 Seats available,2.8
+283,Agra to Lucknow,Laxmi holidays,VE A/C Seater / Sleeper (2+1),23:40,04:20,04h 40m,570,13 Seats available,4.8
+284,Agra to Lucknow,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:55,05:00,05h 05m,570,14 Seats available,4.1
+285,Agra to Lucknow,Anshi Rajshree Travels,Bharat Benz A/C Sleeper (2+1),01:00,06:50,05h 50m,INR 899,15 Seats available,4.7
+286,Agra to Lucknow,Goyal Travels,VE A/C Seater / Sleeper (2+1),19:00,00:40,05h 40m,INR 900,1 Seat available,2.9
+287,Agra to Lucknow,R S YADAV SMART BUS PRIVATE LIMITED,VE A/C Seater / Sleeper (2+1),23:35,04:55,05h 20m,INR 499,20 Seats available,4.7
+288,Agra to Lucknow,R S YADAV SMART BUS PRIVATE LIMITED,A/C Seater / Sleeper (2+1),21:40,01:30,03h 50m,INR 740,21 Seats available,5.0
+289,Agra to Lucknow,Raj Kalpana Travels Pvt.ltd.,A/C Sleeper (2+1),23:45,04:00,04h 15m,750,14 Seats available,3.6
+290,Agra to Lucknow,Anshi Raj Shree Travels,Bharat Benz A/C Sleeper (2+1),21:15,02:00,04h 45m,INR 799,1 Seat available,3.1
+291,Agra to Lucknow,R S YADAV SMART BUS PRIVATE LIMITED,A/C Seater / Sleeper (2+1),21:35,01:25,03h 50m,799,7 Seats available,3.4
+292,Agra to Lucknow,Raj Kalpana Travels Pvt.Ltd,A/C Sleeper (2+1),20:15,00:00,03h 45m,INR 752,3 Seats available,2.7
+293,Agra to Lucknow,Sethi Yatra Company,Bharat Benz A/C Seater /Sleeper (2+1),21:00,02:30,05h 30m,741,2 Seats available,2.7
+294,Agra to Lucknow,Gola Bus Service,A/C Seater/Sleeper (2+1),22:00,03:15,05h 15m,INR 999,1 Seat available,4.6
+295,Agra to Lucknow,Gola Bus Service,A/C Seater/Sleeper (2+1),23:30,04:45,05h 15m,INR 609,5 Seats available,4.6
+296,Agra to Lucknow,Gola Bus Service,VE A/C Seater / Sleeper (2+1),23:00,04:15,05h 15m,INR 699,17 Seats available,4.6
+297,Agra to Lucknow,Gola Bus Service,VE A/C Seater / Sleeper (2+1),23:00,03:10,04h 10m,INR 999,1 Seat available,4.6
+298,Agra to Lucknow,Metro Travels,A/C Sleeper (2+1),23:45,04:00,04h 15m,1017,11 Seats available,No rating
+299,Agra to Lucknow,Gola Bus Service,VE A/C Seater / Sleeper (2+1),23:55,05:00,05h 05m,INR 499,21 Seats available,4.6
+300,Agra to Lucknow,Gola Bus Service,VE A/C Seater / Sleeper (2+1),22:00,02:10,04h 10m,INR 799,11 Seats available,4.6
+301,Agra to Lucknow,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:55,03:50,04h 55m,INR 1036,11 Seats available,4.4
+302,Agra to Lucknow,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:10,03:40,05h 30m,INR 1200,5 Seats available,4.4
+303,Agra to Lucknow,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:55,03:00,05h 05m,570,11 Seats available,4.4
+304,Agra to Lucknow,R S YADAV SMART BUS PRIVATE LIMITED,VE A/C Seater / Sleeper (2+1),23:25,04:30,05h 05m,INR 499,16 Seats available,4.4
+305,Agra to Lucknow,Fouji travels,A/C Seater / Sleeper (2+1),22:35,03:00,04h 25m,INR 799,2 Seats available,4.2
+306,Agra to Lucknow,Vaishali Expresso Pvt. Ltd.,A/C Seater / Sleeper (2+1),23:20,03:20,04h 00m,740,44 Seats available,4.2
+307,Agra to Lucknow,Vaishali Expresso Pvt. Ltd.,A/C Seater / Sleeper (2+2),21:15,01:30,04h 15m,648,21 Seats available,4.2
+308,Agra to Lucknow,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+1),21:40,01:50,04h 10m,INR 649,13 Seats available,4.1
+309,Agra to Lucknow,Shakmbhari Travels,A/C Seater / Sleeper (2+1),22:45,04:00,05h 15m,INR 594,4 Seats available,4.0
+310,Agra to Lucknow,E Bus India,A/C Seater/Sleeper (2+1),22:00,02:30,04h 30m,647,13 Seats available,4.0
+311,Agra to Lucknow,Ashok Tour And Travels,A/C Seater / Sleeper (2+1),22:00,03:00,05h 00m,INR 599,22 Seats available,3.8
+312,Agra to Lucknow,Khajuraho Travels,AC Sleeper (2+1),23:26,04:11,04h 45m,566,21 Seats available,3.7
+313,Agra to Lucknow,Krishna Travels,A/C Seater/Sleeper (2+1),21:25,02:45,05h 20m,INR 699,11 Seats available,3.5
+314,Agra to Lucknow,Krishna Travels,A/C Seater / Sleeper (2+2),22:30,02:30,04h 00m,INR 599,35 Seats available,3.5
+315,Agra to Lucknow,Krishna Travels,A/C Seater / Sleeper (2+2),23:30,05:14,05h 44m,INR 599,29 Seats available,3.5
+316,Agra to Lucknow,Jamna Travels (Delhi),A/C Seater/Sleeper (2+1),23:30,04:15,04h 45m,INR 649,24 Seats available,3.4
+317,Agra to Lucknow,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:30,01:50,04h 20m,570,1 Seat available,4.1
+318,Agra to Lucknow,Sanjay Travels,AC Sleeper (2+1),20:30,01:30,05h 00m,INR 900,13 Seats available,2.9
+319,Agra to Lucknow,FlixBus,A/C Sleeper (2+1),23:40,04:10,04h 30m,INR 720,7 Seats available,3.6
+320,Agra to Lucknow,Sethi Yatra Company,A/C Seater/Sleeper (2+1),20:35,01:40,05h 05m,842,2 Seats available,2.4
+321,Agra to Lucknow,SHREE MARUTIKRUPA TRAVELS AND CARGO,A/C Seater / Sleeper (2+1),19:30,02:00,06h 30m,648,1 Seat available,2.4
+322,Agra to Lucknow,New India Travels,A/C Seater / Sleeper (2+2),23:00,07:00,0-16h 00m,INR 820,19 Seats available,2.3
+323,Agra to Lucknow,FlixBus,A/C Sleeper (2+1),22:55,04:05,05h 10m,INR 500,9 Seats available,4.0
+324,Agra to Lucknow,ROYAL TRAVELS AND CARGO,A/C Seater / Sleeper (2+2),23:59,03:00,03h 01m,INR 696,33 Seats available,2.1
+325,Agra to Lucknow,ROYAL TRAVELS AND CARGO,A/C Seater / Sleeper (2+2),23:59,03:00,03h 01m,INR 1096,32 Seats available,2.1
+326,Agra to Lucknow,Shree Raj Akanshi travels,A/C Sleeper (2+1),23:00,04:00,05h 00m,INR 2299,34 Seats available,3.8
+327,Agra to Lucknow,VIKAS TRAVELS ®,A/C Seater/Sleeper (2+1),22:50,02:50,04h 00m,INR 2857.14,44 Seats available,3.5
+328,Agra to Lucknow,Shree Savariya Travels & Transport,A/C Sleeper (2+1),20:00,02:00,06h 00m,INR 1499,1 Seat available,3.5
+329,Agra to Lucknow,Maa Shakti Bhadra Travels,A/C Seater / Sleeper (2+2),23:55,04:30,04h 35m,INR 4000,34 Seats available,3.4
+330,Agra to Lucknow,Jamna Travels (Delhi),A/C Seater/Sleeper (2+1),21:20,01:30,04h 10m,INR 649,10 Seats available,3.4
+331,Agra to Lucknow,GODARA TRAVELS,A/C Seater / Sleeper (2+1),23:05,03:45,04h 40m,INR 1699,2 Seats available,3.3
+332,Agra to Lucknow,Goyal Travels,A/C Seater / Sleeper (2+1),23:25,03:45,04h 20m,INR 1400,2 Seats available,2.9
+333,Agra to Lucknow,KST Travels,A/C Seater / Sleeper (2+2),22:30,03:00,04h 30m,569,27 Seats available,2.7
+334,Agra to Lucknow,Jain Shiv Shankar Travels,A/C Sleeper (2+1),23:30,04:30,05h 00m,1424,36 Seats available,2.6
+335,Agra to Lucknow,New India Travels,A/C Seater/Sleeper (2+1),23:40,05:55,06h 15m,INR 799,30 Seats available,2.3
+336,Agra to Lucknow,Shri Siddhi Vinayak Travels,A/C Seater / Sleeper (2+1),23:50,03:35,03h 45m,INR 951.43,48 Seats available,2.2
+337,Agra to Lucknow,Gajkaran Travels And Cargo,A/C Seater / Sleeper (2+1),21:20,03:00,05h 40m,INR 1600,35 Seats available,2.0
+338,Agra to Lucknow,Baba Khatushyam Travels Pvt Ltd,A/C Seater / Sleeper (3+1),20:00,05:00,09h 00m,INR 1899,30 Seats available,1.7
+339,Agra to Lucknow,Panwar tour and Travels,A/C Seater (2+2),20:00,02:45,06h 45m,INR 2858,49 Seats available,1.5
+340,Agra to Lucknow,Shree Balajee Travels And Cargo,NON A/C Seater/ Sleeper (2+1),21:30,02:30,0-19h 00m,INR 1500,40 Seats available,1.2
+341,Agra to Lucknow,Panwar tour and Travels,A/C Seater / Sleeper (2+1),21:45,03:30,05h 45m,INR 4144,1 Seat available,1.5
+342,Agra to Lucknow,Panwar tour and Travels,A/C Seater / Sleeper (2+1),22:00,04:45,06h 45m,INR 1800,3 Seats available,1.5
+343,Kanpur (Uttar Pradesh) to Jhansi,UPSRTC - JHD0015,Janrath AC Seater 2+3,20:00,01:15,05h 15m,INR 477,48 Seats available,3.3
+344,Kanpur (Uttar Pradesh) to Jhansi,UPSRTC - JHD0033,Ordinary Non AC Seater 2+3,22:15,03:45,05h 30m,INR 381,52 Seats available,3.3
+345,Kanpur (Uttar Pradesh) to Jhansi,UPSRTC - AWD0119,Janrath AC Seater 2+3,22:30,03:50,05h 20m,INR 477,48 Seats available,3.7
+346,Kanpur (Uttar Pradesh) to Jhansi,UPSRTC - JHD0019,Ordinary Non AC Seater 2+3,22:55,04:30,05h 35m,INR 381,52 Seats available,3.4
+347,Kanpur (Uttar Pradesh) to Jhansi,UPSRTC - JHD0021,Ordinary Non AC Seater 2+3,23:35,04:30,04h 55m,INR 381,52 Seats available,3.3
+348,Kanpur (Uttar Pradesh) to Jhansi,UPSRTC - JHD0024,Ordinary Non AC Seater 2+3,23:59,05:15,05h 16m,INR 381,52 Seats available,2.0
+349,Kanpur (Uttar Pradesh) to Jhansi,Raj Kalpana Travels Pvt.Ltd,A/C Sleeper (2+1),18:15,23:30,05h 15m,INR 900,3 Seats available,4.2
+350,Kanpur (Uttar Pradesh) to Jhansi,Samay Shatabdi Travels Pvt Ltd,NON A/C Sleeper (2+1),18:30,23:50,05h 20m,INR 900,1 Seat available,4.2
+351,Kanpur (Uttar Pradesh) to Jhansi,Kamla Kalpana Travels,A/C Sleeper (2+1),18:30,23:30,05h 00m,INR 800,3 Seats available,3.1
+352,Kanpur (Uttar Pradesh) to Jhansi,Samay Shatabdi Travels Pvt Ltd,AC Sleeper (2+1),19:00,23:57,04h 57m,INR 1100,7 Seats available,4.2
+353,Kanpur (Uttar Pradesh) to Jhansi,Hans Travels (I) Private Limited,A/C Sleeper (2+1),20:00,23:50,03h 50m,INR 1300,4 Seats available,3.2
+354,Kanpur (Uttar Pradesh) to Jhansi,Samay Shatabdi Travels Pvt Ltd,AC Sleeper (2+1),20:00,00:57,04h 57m,INR 699,5 Seats available,4.4
+355,Kanpur (Uttar Pradesh) to Jhansi,Hans Travels (I) Private Limited,NON A/C Sleeper (2+1),20:00,23:40,03h 40m,INR 1000,24 Seats available,3.2
+356,Kanpur (Uttar Pradesh) to Jhansi,Jai Shrinath Ji Ki ® Travels,Bharat Benz A/C Sleeper (2+1),21:10,01:30,04h 20m,INR 700,5 Seats available,3.2
+357,Kanpur (Uttar Pradesh) to Jhansi,Samreen Travels,AC Sleeper (2+1),21:30,01:55,04h 25m,INR 900,15 Seats available,3.7
+358,Kanpur (Uttar Pradesh) to Jhansi,Samay Shatabdi Travels Pvt Ltd,AC Sleeper (2+1),21:30,02:19,04h 49m,INR 699,11 Seats available,4.3
+359,Kanpur (Uttar Pradesh) to Jhansi,Babu Travels,NON A/C Seater / Sleeper (3+1),21:30,01:45,04h 15m,INR 649,4 Seats available,3.3
+360,Kanpur (Uttar Pradesh) to Jhansi,Samay Shatabdi Travels Pvt Ltd,AC Sleeper (2+1),22:00,02:20,04h 20m,INR 699,20 Seats available,3.9
+361,Kanpur (Uttar Pradesh) to Jhansi,Shatabdi Travels,Bharat Benz A/C Sleeper (2+1),22:00,02:00,04h 00m,INR 699,19 Seats available,3.0
+362,Kanpur (Uttar Pradesh) to Jhansi,Betwa Tourist Bus service,NON A/C Sleeper (2+1),19:41,23:31,03h 50m,INR 1000,30 Seats available,2.1
+363,Kanpur (Uttar Pradesh) to Jhansi,Shatabdi Travels,AC Sleeper (2+1),21:20,01:40,04h 20m,857,9 Seats available,2.9
+364,Kanpur (Uttar Pradesh) to Jhansi,ANSH TRAVELS,A/C Seater / Sleeper (2+1),21:25,01:40,04h 15m,INR 800,45 Seats available,1.7
+365,Kanpur (Uttar Pradesh) to Jhansi,Raj Ratan Tours And Travels,Bharat Benz A/C Sleeper (2+1),23:10,03:45,04h 35m,INR 1200,1 Seat available,2.0
+366,Kanpur (Uttar Pradesh) to Jhansi,Hans Travels (I) Private Limited,A/C Sleeper (2+2),23:13,02:58,03h 45m,INR 1500,32 Seats available,3.2
+367,Kanpur (Uttar Pradesh) to Jhansi,Arhaan Travels,AC Sleeper (2+1),21:10,02:25,05h 15m,INR 1599,31 Seats available,2.8
+368,Kanpur (Uttar Pradesh) to Jhansi,Betrwanti Travels,A/C Sleeper (2+1),23:45,03:40,03h 55m,INR 1500,22 Seats available,No rating
+369,Lucknow to Agra,UPSRTC - AWD0059,Janrath AC Seater 2+2,20:00,02:43,06h 43m,INR 760,36 Seats available,3.3
+370,Lucknow to Agra,UPSRTC - TAJ0008,Janrath AC Seater 2+2,20:30,02:00,05h 30m,INR 760,36 Seats available,3.3
+371,Lucknow to Agra,UPSRTC - AWD0206,Pink Express AC Seater 2+2,21:45,04:00,06h 15m,INR 760,41 Seats available,3.1
+372,Lucknow to Agra,UPSRTC - BDV0066,Janrath AC Seater 2+2,22:30,04:45,06h 15m,INR 760,36 Seats available,3.3
+373,Lucknow to Agra,UPSRTC - BDV0080,Janrath AC Seater 2+2,22:30,03:30,05h 00m,INR 760,36 Seats available,3.3
+374,Lucknow to Agra,UPSRTC - AWD0056,Janrath AC Seater 2+2,23:15,05:27,06h 12m,INR 760,36 Seats available,4.0
+375,Lucknow to Agra,UPSRTC - TAJ0010,Pink Express AC Seater 2+2,23:45,05:31,05h 46m,INR 760,40 Seats available,3.8
+376,Lucknow to Agra,RSRTC - 193674,Express Non AC Seater 2+3,19:40,03:00,07h 20m,INR 548,42 Seats available,3.2
+377,Lucknow to Agra,RSRTC - 177797,A/C Seater / Sleeper (2+1),21:00,02:30,05h 30m,INR 891,24 Seats available,3.2
+378,Lucknow to Agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:00,03:45,04h 45m,INR 565,12 Seats available,4.7
+379,Lucknow to Agra,Sethi Yatra Company,A/C Seater / Sleeper (2+1),20:00,00:30,04h 30m,601,7 Seats available,4.3
+380,Lucknow to Agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:45,02:45,05h 00m,INR 609,13 Seats available,4.2
+381,Lucknow to Agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,03:35,04h 50m,INR 585,14 Seats available,4.7
+382,Lucknow to Agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:30,04:30,05h 00m,INR 494,14 Seats available,4.2
+383,Lucknow to Agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:15,02:15,05h 00m,INR 558,11 Seats available,4.7
+384,Lucknow to Agra,Ashok Bus Service,VE A/C Sleeper (2+1),23:10,03:30,04h 20m,INR 649,34 Seats available,4.1
+385,Lucknow to Agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:45,04:45,05h 00m,INR 566,10 Seats available,3.9
+386,Lucknow to Agra,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),21:00,02:00,05h 00m,INR 593,8 Seats available,3.9
+387,Lucknow to Agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:55,04:45,04h 50m,INR 639,13 Seats available,4.6
+388,Lucknow to Agra,Goyal Travels,A/C Seater / Sleeper (2+1),23:25,04:10,04h 45m,INR 1399,1 Seat available,3.6
+389,Lucknow to Agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:50,03:45,04h 55m,INR 1801,3 Seats available,4.7
+390,Lucknow to Agra,Anshi Rajshree Travels,Bharat Benz A/C Sleeper (2+1),19:05,00:30,05h 25m,INR 799,13 Seats available,3.5
+391,Lucknow to Agra,Gola Bus Service,A/C Seater/Sleeper (2+1),23:59,04:55,04h 56m,INR 1399,16 Seats available,4.5
+392,Lucknow to Agra,VGO BUS,A/C Sleeper (2+1),22:30,03:30,05h 00m,INR 599,20 Seats available,3.9
+393,Lucknow to Agra,Fouji travels,A/C Seater / Sleeper (2+1),23:50,04:15,04h 25m,INR 1499,9 Seats available,3.5
+394,Lucknow to Agra,PTC-SKYBUS,VE A/C Seater / Sleeper (2+1),18:15,22:50,04h 35m,INR 1399,2 Seats available,3.9
+395,Lucknow to Agra,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:00,03:00,05h 00m,INR 699,13 Seats available,2.9
+396,Lucknow to Agra,R S YADAV SMART BUS PRIVATE LIMITED,A/C Seater / Sleeper (2+1),23:55,04:05,04h 10m,INR 1499,18 Seats available,4.9
+397,Lucknow to Agra,R S YADAV SMART BUS PRIVATE LIMITED,VE A/C Seater / Sleeper (2+1),23:03,03:13,04h 10m,INR 1499,9 Seats available,4.9
+398,Lucknow to Agra,R S YADAV SMART BUS PRIVATE LIMITED,VE A/C Seater / Sleeper (2+1),22:40,02:10,03h 30m,INR 799,13 Seats available,4.9
+399,Lucknow to Agra,IntrCity SmartBus,Bharat Benz A/C Sleeper (2+1),22:15,03:15,05h 00m,INR 646,12 Seats available,4.3
+400,Lucknow to Agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:55,05:25,05h 30m,INR 1554,25 Seats available,4.3
+401,Lucknow to Agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:35,04:25,04h 50m,INR 565,17 Seats available,4.3
+402,Lucknow to Agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:20,04:00,04h 40m,INR 1438,24 Seats available,4.3
+403,Lucknow to Agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:50,02:45,04h 55m,INR 565,13 Seats available,4.3
+404,Lucknow to Agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:30,03:20,04h 50m,INR 553,8 Seats available,4.3
+405,Lucknow to Agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:30,02:40,05h 10m,INR 525,10 Seats available,4.3
+406,Lucknow to Agra,Metro Travels,A/C Sleeper (2+1),21:25,01:05,03h 40m,1017,30 Seats available,No rating
+407,Lucknow to Agra,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:00,02:50,04h 50m,INR 616,6 Seats available,4.3
+408,Lucknow to Agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:35,03:25,04h 50m,INR 579,15 Seats available,4.3
+409,Lucknow to Agra,IntrCity SmartBus,Bharat Benz A/C Sleeper (2+1),22:35,03:30,04h 55m,INR 2019,18 Seats available,4.3
+410,Lucknow to Agra,IntrCity SmartBus,A/C Semi Sleeper / Sleeper (2+1),23:15,04:15,05h 00m,INR 510,22 Seats available,4.3
+411,Lucknow to Agra,Vaishali Expresso Pvt. Ltd.,A/C Seater / Sleeper (2+2),23:00,04:15,05h 15m,1294,6 Seats available,4.2
+412,Lucknow to Agra,BT Travels,VE A/C Seater / Sleeper (2+1),21:50,03:00,05h 10m,INR 589,30 Seats available,4.2
+413,Lucknow to Agra,Vaishali Expresso Pvt. Ltd.,A/C Seater / Sleeper (2+2),23:20,03:58,04h 38m,1526,17 Seats available,4.2
+414,Lucknow to Agra,International Tourist Centre,VE A/C Seater / Sleeper (2+1),21:30,02:30,05h 00m,INR 549,25 Seats available,4.2
+415,Lucknow to Agra,Raj Kalpana Travels Pvt.Ltd,A/C Seater/Sleeper (2+1),23:45,03:00,03h 15m,1625,3 Seats available,4.1
+416,Lucknow to Agra,Dev Express ®,A/C Sleeper (2+1),21:00,01:55,04h 55m,810,36 Seats available,4.1
+417,Lucknow to Agra,Raj Kalpana Travels Pvt.ltd.,A/C Seater/Sleeper (2+1),22:00,02:10,04h 10m,INR 499,13 Seats available,4.1
+418,Lucknow to Agra,Gola Bus Service,VE A/C Sleeper (2+1),22:30,04:30,06h 00m,INR 1799,31 Seats available,4.1
+419,Lucknow to Agra,Gola Bus Service,A/C Seater/Sleeper (2+1),23:46,04:40,04h 54m,INR 1799,9 Seats available,4.1
+420,Lucknow to Agra,Raj Kalpana Travels Pvt.Ltd,A/C Sleeper (2+1),23:30,02:30,03h 00m,INR 900,5 Seats available,4.1
+421,Lucknow to Agra,Raj Kalpana Travels Pvt.ltd.,A/C Seater/Sleeper (2+1),22:30,02:25,03h 55m,INR 499,27 Seats available,4.1
+422,Lucknow to Agra,SVD TRAVELS & TRANSPORT LLP,VE A/C Seater / Sleeper (2+1),21:50,02:45,04h 55m,1294,44 Seats available,4.0
+423,Lucknow to Agra,Gajraj bus service,A/C Seater / Sleeper (2+1),23:00,04:30,05h 30m,INR 1500,37 Seats available,3.9
+424,Lucknow to Agra,New Shree Mahaveer Travels,A/C Seater / Sleeper (2+1),22:00,02:30,04h 30m,INR 800,34 Seats available,3.9
+425,Lucknow to Agra,New Shree Mahaveer Travels,A/C Seater / Sleeper (2+1),20:30,01:45,05h 15m,INR 650,36 Seats available,3.9
+426,Lucknow to Agra,Shree Raj Akanshi travels,Bharat Benz A/C Seater /Sleeper (2+1),21:15,02:10,04h 55m,832,38 Seats available,3.8
+427,Lucknow to Agra,Sethi Yatra Company,A/C Seater/Sleeper (2+1),21:50,03:00,05h 10m,INR 1199,3 Seats available,3.7
+428,Lucknow to Agra,Sethi Yatra Company,A/C Sleeper (2+1),21:30,02:05,04h 35m,833,19 Seats available,3.7
+429,Lucknow to Agra,Sethi Yatra Company,A/C Seater / Sleeper (2+1),22:30,03:25,04h 55m,INR 600,25 Seats available,3.7
+430,Lucknow to Agra,Tourist Point,A/C Seater / Sleeper (2+2),23:10,05:00,05h 50m,INR 2199,12 Seats available,3.7
+431,Lucknow to Agra,Khajuraho Travels,AC Sleeper (2+1),23:46,04:41,04h 55m,1706,36 Seats available,3.7
+432,Lucknow to Agra,Sethi Yatra Company,A/C Seater / Sleeper (2+1),21:05,02:00,04h 55m,601,20 Seats available,3.7
+433,Lucknow to Agra,Sethi Yatra Company,A/C Seater / Sleeper (2+1),23:20,04:50,05h 30m,1109,7 Seats available,3.7
+434,Lucknow to Agra,Fouji travels,A/C Seater / Sleeper (2+1),23:10,03:35,04h 25m,INR 1499,3 Seats available,3.5
+435,Lucknow to Agra,Fouji travels,Bharat Benz A/C Seater / Sleeper (2+2),22:45,03:00,04h 15m,INR 1599,2 Seats available,3.5
+436,Lucknow to Agra,Shree Mahaveer Travels Jaipur,A/C Sleeper (2+1),20:30,01:30,05h 00m,INR 899,26 Seats available,3.4
+437,Lucknow to Agra,Gola Bus Service,VE A/C Seater / Sleeper (2+1),22:20,03:00,04h 40m,INR 649,10 Seats available,5.0
+438,Lucknow to Agra,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+2),23:36,03:05,03h 29m,1099,48 Seats available,3.3
+439,Lucknow to Agra,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+1),23:00,03:30,04h 30m,1099,34 Seats available,3.3
+440,Lucknow to Agra,KARNI KRIPA TOURS & TRAVELS,Bharat Benz A/C Seater /Sleeper (2+1),22:00,02:30,04h 30m,INR 1199,24 Seats available,3.3
+441,Lucknow to Agra,Shree ram travels,A/C Seater / Sleeper (2+2),22:31,02:31,04h 00m,1044,50 Seats available,3.2
+442,Lucknow to Agra,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:15,03:15,05h 00m,786,25 Seats available,4.5
+443,Lucknow to Agra,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:40,02:00,04h 20m,1230,1 Seat available,3.1
+444,Lucknow to Agra,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),22:30,04:00,05h 30m,759,8 Seats available,3.1
+445,Lucknow to Agra,Dhruv Travels,A/C Seater/Sleeper (2+1),23:05,03:30,04h 25m,INR 999,24 Seats available,2.9
+446,Lucknow to Agra,Vinay Travels,A/C Seater / Sleeper (2+2),23:35,03:45,04h 10m,1290,30 Seats available,2.9
+447,Lucknow to Agra,Vijay Tour and Travels,A/C Seater / Sleeper (2+1),18:00,22:30,04h 30m,555,12 Seats available,2.3
+448,Lucknow to Agra,Shakmbhari Travels,A/C Seater / Sleeper (2+1),23:30,05:00,05h 30m,INR 1494,1 Seat available,1.7
+449,Lucknow to Agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:45,01:40,04h 55m,INR 914,46 Seats available,4.3
+450,Lucknow to Agra,Vaishali Expresso Pvt. Ltd.,A/C Seater / Sleeper (2+2),22:34,02:34,04h 00m,1665,8 Seats available,4.2
+451,Lucknow to Agra,Vaishali Expresso Pvt. Ltd.,A/C Seater / Sleeper (2+2),22:50,05:06,06h 16m,1388,15 Seats available,4.2
+452,Lucknow to Agra,FlixBus,A/C Sleeper (2+1),22:10,03:25,05h 15m,INR 977,6 Seats available,4.1
+453,Lucknow to Agra,FlixBus,A/C Seater (2+2),23:50,04:25,04h 35m,INR 485,11 Seats available,4.1
+454,Lucknow to Agra,Maharani Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:15,01:45,04h 30m,INR 501,15 Seats available,4.0
+455,Lucknow to Agra,NAYAR TRAVELS (OPC) PVT LTD,A/C Sleeper (2+1),22:15,01:50,03h 35m,INR 2500,1 Seat available,2.0
+456,Lucknow to Agra,Gajraj bus service,Bharat Benz A/C Seater /Sleeper (2+1),21:05,01:35,04h 30m,INR 3100,14 Seats available,3.9
+457,Lucknow to Agra,Gajraj bus service,A/C Seater / Sleeper (2+1),23:00,04:30,05h 30m,INR 1500,37 Seats available,3.9
+458,Lucknow to Agra,Vijaylakshmi tour & travels,Bharat Benz A/C Seater /Sleeper (2+1),20:40,01:35,04h 55m,INR 1400,40 Seats available,No rating
+459,Lucknow to Agra,Samay Shatabdi Travels Pvt Ltd,AC Sleeper (2+1),18:30,01:30,07h 00m,INR 999,10 Seats available,3.8
+460,Lucknow to Agra,Shree Raj Akanshi travels,Bharat Benz A/C Seater /Sleeper (2+1),22:55,03:55,05h 00m,INR 1100,36 Seats available,3.8
+461,Lucknow to Agra,DIVA BUS,A/C Seater / Sleeper (2+1),23:40,04:10,04h 30m,INR 1499,42 Seats available,3.7
+462,Lucknow to Agra,Khajuraho Travels,A/C Seater / Sleeper (2+1),23:50,04:47,04h 57m,1516,16 Seats available,3.7
+463,Lucknow to Agra,M R Travels,A/C Seater / Sleeper (2+1),19:00,23:30,04h 30m,INR 769,18 Seats available,3.6
+464,Lucknow to Agra,Goyal Travels,VE A/C Seater / Sleeper (2+1),23:20,03:45,04h 25m,INR 1799,5 Seats available,3.6
+465,Lucknow to Agra,Shatabdi Travels Gurugram,AC Sleeper (2+1),18:35,02:35,08h 00m,1199,16 Seats available,3.5
+466,Lucknow to Agra,Shrinath® Travel Agency Pvt. Ltd.,A/C Sleeper (2+1),20:45,01:25,04h 40m,3608,36 Seats available,3.5
+467,Lucknow to Agra,Raaj Rath Travels Co.,A/C Sleeper (2+1),22:10,03:40,05h 30m,INR 1049,20 Seats available,3.5
+468,Lucknow to Agra,GODARA TRAVELS,AC Sleeper (2+1),20:00,01:00,05h 00m,INR 1649,23 Seats available,3.3
+469,Lucknow to Agra,GODARA TRAVELS,AC Sleeper (2+1),20:50,01:50,05h 00m,INR 1649,23 Seats available,3.3
+470,Lucknow to Agra,Shree ram travels,A/C Seater / Sleeper (2+2),22:48,02:48,04h 00m,1139,50 Seats available,3.2
+471,Lucknow to Agra,Maharaja Travels,A/C Sleeper (2+1),18:30,23:30,05h 00m,INR 857,9 Seats available,3.1
+472,Lucknow to Agra,Gorakhdham Express Bus Service,A/C Seater / Sleeper (2+2),23:45,03:45,04h 00m,INR 1375,34 Seats available,2.9
+473,Lucknow to Agra,Gorakhdham Express Bus Service,A/C Seater / Sleeper (2+2),22:05,02:05,04h 00m,INR 1399,34 Seats available,2.9
+474,Lucknow to Agra,Panwar Travels,A/C Seater / Sleeper (2+1),22:50,03:15,04h 25m,INR 1590,2 Seats available,2.8
+475,Lucknow to Agra,Arhaan Travels,A/C Seater / Sleeper (2+1),21:20,01:35,04h 15m,INR 899,37 Seats available,2.8
+476,Lucknow to Agra,Shri Chirag Travel Agency,AC Sleeper (2+1),19:05,23:25,04h 20m,2070,36 Seats available,2.7
+477,Lucknow to Agra,KISSAN TRAVELS PILANI,Bharat Benz A/C Seater /Sleeper (2+1),22:55,03:15,04h 20m,INR 1499,39 Seats available,2.7
+478,Lucknow to Agra,Shree Mahaveer Travels,A/C Seater / Sleeper (2+1),21:00,03:00,06h 00m,INR 600,38 Seats available,2.7
+479,Lucknow to Agra,Shri Chirag Travel Agency,AC Sleeper (2+1),19:05,23:35,04h 30m,1774,37 Seats available,2.7
+480,Lucknow to Agra,SHREE MARUTIKRUPA TRAVELS AND CARGO,A/C Seater / Sleeper (2+1),23:45,06:00,06h 15m,1942,22 Seats available,2.4
+481,Lucknow to Agra,yogesh Travels,A/C Seater / Sleeper (2+1),23:30,03:40,04h 10m,INR 2000,40 Seats available,2.4
+482,Lucknow to Agra,Shri Siddhi Vinayak Travels,A/C Seater / Sleeper (2+1),23:30,03:40,04h 10m,INR 1099,27 Seats available,2.2
+483,Lucknow to Agra,First Choice Holidays,A/C Seater / Sleeper (2+2),23:00,03:15,04h 15m,INR 3999,54 Seats available,2.2
+484,Lucknow to Agra,Shri Siddhi Vinayak Travels,A/C Seater / Sleeper (2+1),23:45,04:00,04h 15m,INR 1428.57,48 Seats available,2.2
+485,Lucknow to Agra,First Choice Holidays,A/C Seater / Sleeper (2+2),23:55,05:45,05h 50m,INR 5000,54 Seats available,2.2
+486,Lucknow to Agra,Shri Radha Rani Travels,A/C Seater / Sleeper (2+2),21:30,02:30,05h 00m,INR 4000,52 Seats available,2.1
+487,Lucknow to Agra,Vijay Tour and Travels,A/C Seater / Sleeper (2+1),23:20,04:00,04h 40m,1480,36 Seats available,2.0
+488,Lucknow to Agra,JINWANI TRAVELS & CARGO,A/C Sleeper (1+2),21:30,02:30,05h 00m,INR 400,40 Seats available,1.8
+489,Lucknow to Agra,Shree Balajee Travels And Cargo,A/C Seater / Sleeper (2+1),01:00,06:43,05h 43m,INR 1799,47 Seats available,1.2
+490,Varanasi to Lucknow,UPSRTC - AWD0091,Janrath AC Seater 2+2,19:00,02:00,07h 00m,INR 690,36 Seats available,2.0
+491,Varanasi to Lucknow,UPSRTC - CBG0138,Janrath AC Seater 2+2,19:30,03:30,08h 00m,INR 690,36 Seats available,3.3
+492,Varanasi to Lucknow,UPSRTC - SLP0061,Ordinary Non AC Seater 2+3,19:30,03:15,07h 45m,INR 475,52 Seats available,3.3
+493,Varanasi to Lucknow,UPSRTC - CBG0045,Janrath AC Seater 2+2,20:00,03:30,07h 30m,INR 690,36 Seats available,3.3
+494,Varanasi to Lucknow,UPSRTC - AWD0093,Janrath AC Seater 2+2,20:30,03:30,07h 00m,INR 690,36 Seats available,3.3
+495,Varanasi to Lucknow,UPSRTC - CBG0047,Janrath AC Seater 2+2,21:00,04:00,07h 00m,INR 690,36 Seats available,2.5
+496,Varanasi to Lucknow,UPSRTC - AWD0092,Janrath AC Seater 2+2,21:30,04:30,07h 00m,INR 690,36 Seats available,3.3
+497,Varanasi to Lucknow,UPSRTC - ALM0157,Shatabdi AC Seater 2+2,22:02,04:02,06h 00m,INR 698,41 Seats available,5.0
+498,Varanasi to Lucknow,UPSRTC - ALM0150,Volvo AC Seater 2+2,22:29,04:19,05h 50m,INR 996,39 Seats available,4.7
+499,Varanasi to Lucknow,UPSRTC - CHL0016,Ordinary Non AC Seater 2+3,22:30,05:00,06h 30m,INR 475,52 Seats available,3.3
+500,Varanasi to Lucknow,UPSRTC - HDD0002,Janrath AC Seater 2+2,23:30,06:30,07h 00m,INR 690,36 Seats available,3.2
+501,Varanasi to Lucknow,UPSRTC - TAJ0042,Janrath AC Seater 2+2,23:54,06:10,06h 16m,INR 690,36 Seats available,4.3
+502,Varanasi to Lucknow,Sethi Yatra Company,A/C Seater/Sleeper (2+1),22:00,06:00,08h 00m,INR 399,15 Seats available,4.5
+503,Varanasi to Lucknow,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:30,06:00,07h 30m,INR 399,26 Seats available,3.8
+504,Varanasi to Lucknow,Yolo Bus,A/C Sleeper (2+1),22:15,05:49,07h 34m,INR 549,18 Seats available,3.8
+505,Varanasi to Lucknow,Raj Kalpana Travels Pvt.Ltd,A/C Seater/Sleeper (2+1),20:00,01:45,05h 45m,1306,7 Seats available,4.5
+506,Varanasi to Lucknow,Vinay Travels,VE A/C Seater / Sleeper (2+1),21:30,02:00,04h 30m,1490,12 Seats available,2.9
+507,Varanasi to Lucknow,Khajuraho Travels,A/C Seater / Sleeper (2+1),18:00,23:50,05h 50m,1516,4 Seats available,3.2
+508,Varanasi to Lucknow,HIGHWAY STAR TRAVEL & CARGO,A/C Seater / Sleeper (2+2),18:00,00:15,06h 15m,INR 1399,3 Seats available,2.1
+509,Varanasi to Lucknow,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+1),18:05,00:50,06h 45m,1150,5 Seats available,3.7
+510,Varanasi to Lucknow,Crystal Bus Service,A/C Seater / Sleeper (2+1),22:00,05:00,07h 00m,333,23 Seats available,3.1
+511,Varanasi to Lucknow,First Choice Holidays,A/C Seater / Sleeper (2+2),18:15,23:55,05h 40m,INR 5000,54 Seats available,2.2
+512,Bareilly to Haridwar,UPSRTC - RKD0039,Janrath AC Seater 2+2,21:00,03:55,06h 55m,INR 610,33 Seats available,3.3
+513,Bareilly to Haridwar,UPSRTC - VKS0001,Janrath AC Seater 2+2,21:30,03:45,06h 15m,INR 633,35 Seats available,3.3
+514,Delhi to Agra,UPSRTC - TAJ0014,Janrath AC Seater 2+2,19:00,22:15,03h 15m,INR 499,34 Seats available,3.3
+515,Delhi to Agra,UPSRTC - NDD0012,Ordinary Non AC Seater 2+3,20:00,23:58,03h 58m,INR 345,52 Seats available,3.3
+516,Delhi to Agra,RSRTC - 160836,Express Non AC Seater 2+3,19:30,05:00,09h 30m,INR 286,46 Seats available,3.7
+517,Delhi to Agra,R S YADAV SMART BUS PRIVATE LIMITED,A/C Seater / Sleeper (2+1),17:50,21:40,03h 50m,INR 490,17 Seats available,4.4
+518,Delhi to Agra,Hans Travels (I) Private Limited,A/C Sleeper (2+1),18:00,21:45,03h 45m,INR 300,13 Seats available,3.3
+519,Delhi to Agra,NueGo,Electric A/C Seater (2+2),18:00,23:15,05h 15m,284,29 Seats available,3.8
+520,Delhi to Agra,FlixBus,A/C Sleeper (2+1),18:30,22:50,04h 20m,INR 411,12 Seats available,3.3
+521,Delhi to Agra,NueGo,Electric A/C Seater (2+2),19:00,23:30,04h 30m,284,26 Seats available,3.5
+522,Delhi to Agra,FlixBus,A/C Sleeper (2+1),19:20,23:40,04h 20m,INR 464,7 Seats available,3.3
+523,Delhi to Agra,Gola Bus Service,VE A/C Seater / Sleeper (2+1),19:20,23:00,03h 40m,INR 499,5 Seats available,3.5
+524,Delhi to Agra,FlixBus,A/C Sleeper (2+1),19:30,23:50,04h 20m,INR 387,17 Seats available,3.3
+525,Delhi to Agra,NueGo,Electric A/C Seater (2+2),20:35,00:55,04h 20m,284,38 Seats available,4.3
+526,Delhi to Agra,R S YADAV SMART BUS PRIVATE LIMITED,VE A/C Seater / Sleeper (2+1),20:55,23:25,02h 30m,INR 499,16 Seats available,4.4
+527,Delhi to Agra,NueGo,Electric A/C Seater (2+2),21:00,01:50,04h 50m,284,43 Seats available,3.7
+528,Delhi to Agra,Raj Kalpana Travels Pvt.ltd.,VE A/C Sleeper (2+1),21:00,00:45,03h 45m,497,17 Seats available,3.9
+529,Delhi to Agra,VGO BUS,A/C Seater / Sleeper (2+1),21:10,02:10,05h 00m,INR 499,20 Seats available,4.0
+530,Delhi to Agra,R S YADAV SMART BUS PRIVATE LIMITED,VE A/C Seater / Sleeper (2+1),21:30,23:35,02h 05m,INR 499,20 Seats available,4.4
+531,Delhi to Agra,Rama Krishna Tour and Travels,AC Sleeper (2+1),21:30,00:31,03h 01m,INR 499,6 Seats available,3.3
+532,Delhi to Agra,Raj Kalpana Travels Pvt.ltd.,Non A/C Seater / Sleeper (2+1),21:30,01:30,04h 00m,INR 400,31 Seats available,3.1
+533,Delhi to Agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:45,02:00,04h 15m,INR 437,17 Seats available,4.0
+534,Delhi to Agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:45,02:30,04h 45m,INR 415,18 Seats available,4.0
+535,Delhi to Agra,Gola Bus Service,A/C Seater/Sleeper (2+1),21:50,01:25,03h 35m,INR 349,15 Seats available,3.5
+536,Delhi to Agra,Raj Kalpana Travels Pvt.ltd.,A/C Seater/Sleeper (2+1),22:00,01:20,03h 20m,INR 499,26 Seats available,3.9
+537,Delhi to Agra,SAFAR EXPRESS PVT LTD,NON AC Seater / Sleeper 2+1,22:10,02:16,04h 06m,300,33 Seats available,3.7
+538,Delhi to Agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:15,02:35,04h 20m,INR 379,26 Seats available,4.0
+539,Delhi to Agra,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+1),22:15,01:08,02h 53m,450,24 Seats available,3.7
+540,Delhi to Agra,DURGA TRAVELS,A/C Sleeper (2+1),22:20,02:30,04h 10m,INR 299,28 Seats available,3.0
+541,Delhi to Agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:25,02:25,04h 00m,INR 447,31 Seats available,4.0
+542,Delhi to Agra,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:30,02:25,03h 55m,INR 364,21 Seats available,4.0
+543,Delhi to Agra,DURGA TRAVELS,A/C Seater/Sleeper (2+1),22:30,02:59,04h 29m,INR 349,21 Seats available,3.0
+544,Delhi to Agra,FlixBus,A/C Sleeper (2+1),22:30,02:25,03h 55m,INR 387,15 Seats available,3.3
+545,Delhi to Agra,FlixBus,A/C Seater (2+2),22:30,03:05,04h 35m,INR 387,29 Seats available,3.3
+546,Delhi to Agra,Gola Bus Service,VE A/C Seater / Sleeper (2+1),22:30,02:10,03h 40m,INR 399,25 Seats available,3.5
+547,Delhi to Agra,Khajuraho Travels,A/C Seater / Sleeper (2+1),22:35,02:35,04h 00m,INR 396,22 Seats available,4.0
+548,Delhi to Agra,International Tourist Centre,VE A/C Seater / Sleeper (2+1),22:40,02:45,04h 05m,INR 399,41 Seats available,4.2
+549,Delhi to Agra,Vande Fly,A/C Seater / Sleeper (2+2),22:45,02:55,04h 10m,475,35 Seats available,3.5
+550,Delhi to Agra,Ashok Bus Service,VE A/C Sleeper (2+1),22:45,03:15,04h 30m,INR 399,38 Seats available,3.6
+551,Delhi to Agra,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,02:35,03h 50m,INR 370,33 Seats available,4.0
+552,Delhi to Agra,R S YADAV SMART BUS PRIVATE LIMITED,VE A/C Seater / Sleeper (2+1),22:50,01:55,03h 05m,INR 499,32 Seats available,4.4
+553,Delhi to Agra,FlixBus,A/C Seater (2+2),23:00,03:00,04h 00m,INR 399,17 Seats available,3.3
+554,Delhi to Agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:00,02:40,03h 40m,INR 346,15 Seats available,4.0
+555,Delhi to Agra,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+1),23:05,02:35,03h 30m,499,23 Seats available,3.7
+556,Delhi to Agra,R S YADAV SMART BUS PRIVATE LIMITED,Bharat Benz A/C Seater /Sleeper (2+1),23:15,02:17,03h 02m,INR 490,29 Seats available,4.4
+557,Delhi to Agra,Hare Rama Travels,A/C Seater/Sleeper (2+1),23:15,03:00,03h 45m,INR 499,29 Seats available,4.0
+558,Delhi to Agra,PTC-SKYBUS,VE A/C Seater / Sleeper (2+1),23:15,02:30,03h 15m,INR 399,28 Seats available,4.7
+559,Delhi to Agra,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:20,03:30,04h 10m,471,29 Seats available,3.4
+560,Delhi to Agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:20,03:35,04h 15m,INR 361,20 Seats available,4.0
+561,Delhi to Agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:25,02:35,03h 10m,INR 426,29 Seats available,4.0
+562,Delhi to Agra,Raj Kalpana Travels Pvt.Ltd,Bharat Benz A/C Seater /Sleeper (2+1),23:30,02:45,03h 15m,497,20 Seats available,3.9
+563,Delhi to Agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:30,03:25,03h 55m,INR 449,29 Seats available,4.0
+564,Delhi to Agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:30,03:00,03h 30m,INR 381,29 Seats available,3.3
+565,Delhi to Agra,Ashok Bus Service,A/C Seater / Sleeper (2+1),23:45,04:30,04h 45m,INR 499,36 Seats available,3.6
+566,Delhi to Agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:45,03:25,03h 40m,INR 387,26 Seats available,4.0
+567,Delhi to Agra,PTC-SKYBUS,VE A/C Seater / Sleeper (2+1),23:45,03:15,03h 30m,INR 399,29 Seats available,4.7
+568,Delhi to Agra,NueGo,Electric A/C Seater (2+2),23:55,04:25,04h 30m,284,30 Seats available,3.8
+569,Delhi to Agra,Yadav Vishvkarma Tour And Travels,NON AC Seater / Sleeper 2+1,19:30,23:31,04h 01m,INR 500,35 Seats available,2.8
+570,Delhi to Agra,Hans Travels (I) Private Limited,A/C Sleeper (2+1),20:25,23:40,03h 15m,INR 300,17 Seats available,2.0
+571,Delhi to Agra,New Yadav Vishwakarma Tour and Travels,Bharat Benz NON A/C sleeper (2+1),21:00,00:30,03h 30m,INR 450,20 Seats available,2.4
+572,Delhi to Agra,Kalpana Travels Pvt. Ltd.,AC Sleeper (2+1),21:30,00:30,03h 00m,INR 499,22 Seats available,2.8
+573,Delhi to Agra,New Yadav Vishwakarma Tour and Travels,Bharat Benz NON A/C sleeper (2+1),21:30,01:00,03h 30m,INR 460,16 Seats available,2.4
+574,Delhi to Agra,Kalpana Travels Kanpur,NON AC Seater / Sleeper 2+1,22:15,02:45,04h 30m,INR 300,32 Seats available,2.1
+575,Delhi to Agra,Shivansh travels,A/C Seater/Sleeper (2+1),22:15,02:00,03h 45m,INR 350,29 Seats available,1.7
+576,Delhi to Agra,RAWAT HOLIDAYS,A/C Seater (2+2),22:15,02:10,03h 55m,INR 599,45 Seats available,1.2
+577,Delhi to Agra,Yadav Vishvkarma Tour And Travels,A/C Seater / Sleeper (2+1),22:30,02:21,03h 51m,INR 500,37 Seats available,2.8
+578,Delhi to Agra,Kalpana Travels Kanpur,NON A/C Sleeper (2+1),22:45,03:15,04h 30m,INR 400,27 Seats available,2.1
+579,Delhi to Agra,Shatabdi Travels,Bharat Benz A/C Sleeper (2+1),18:00,21:50,03h 50m,INR 1200,36 Seats available,4.0
+580,Delhi to Agra,Jamna Travels (Delhi),A/C Seater/Sleeper (2+1),18:00,21:20,03h 20m,INR 599,16 Seats available,3.4
+581,Delhi to Agra,Shatabdi Travels,Bharat Benz A/C Sleeper (2+1),18:00,21:50,03h 50m,INR 1000,36 Seats available,4.0
+582,Delhi to Agra,R S YADAV SMART BUS PRIVATE LIMITED,A/C Seater / Sleeper (2+1),18:00,21:35,03h 35m,INR 599,8 Seats available,4.4
+583,Delhi to Agra,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),18:00,22:30,04h 30m,555,16 Seats available,3.4
+584,Delhi to Agra,Gajraj bus service,A/C Seater / Sleeper (2+1),18:00,22:00,04h 00m,INR 899,38 Seats available,3.9
+585,Delhi to Agra,E Bus India,A/C Seater/Sleeper (2+1),18:00,22:00,04h 00m,647,13 Seats available,4.0
+586,Delhi to Agra,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+1),18:00,21:40,03h 40m,INR 649,14 Seats available,4.1
+587,Delhi to Agra,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+1),18:10,22:00,03h 50m,999,15 Seats available,3.7
+588,Delhi to Agra,RAJ KALPANA TRAVELS PRIVATE LIMITED,A/C Sleeper (2+1),18:15,22:30,04h 15m,INR 900,16 Seats available,5.0
+589,Delhi to Agra,Gola Bus Service,VE A/C Seater / Sleeper (2+1),18:20,22:00,03h 40m,INR 799,8 Seats available,3.5
+590,Delhi to Agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),18:25,22:25,04h 00m,INR 1091,5 Seats available,4.0
+591,Delhi to Agra,JMD Travels,A/C Seater / Sleeper (2+2),18:30,22:30,04h 00m,INR 549,18 Seats available,3.3
+592,Delhi to Agra,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),18:30,23:00,04h 30m,555,13 Seats available,3.4
+593,Delhi to Agra,Krishna Travels,A/C Seater / Sleeper (2+2),18:30,23:00,04h 30m,INR 599,35 Seats available,3.5
+594,Delhi to Agra,Gajraj bus service,A/C Seater / Sleeper (2+1),18:45,22:00,03h 15m,INR 549,25 Seats available,3.9
+595,Delhi to Agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),18:55,23:05,04h 10m,INR 806,12 Seats available,4.0
+596,Delhi to Agra,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+2),19:00,23:30,04h 30m,INR 750,23 Seats available,4.1
+597,Delhi to Agra,Shakmbhari Travels,A/C Seater / Sleeper (2+1),19:00,22:45,03h 45m,INR 594,4 Seats available,4.0
+598,Delhi to Agra,Ashok Travels Mandsaur Group,Volvo A/C Sleeper (2+1),19:02,22:55,03h 53m,1110,14 Seats available,3.8
+599,Delhi to Agra,Laxmi holidays,VE A/C Seater / Sleeper (2+1),19:30,23:40,04h 10m,555,15 Seats available,3.4
+600,Delhi to Agra,Kamla Travels,A/C Sleeper (2+1),19:30,23:30,04h 00m,INR 1000,23 Seats available,3.2
+601,Delhi to Agra,R S YADAV SMART BUS PRIVATE LIMITED,VE A/C Seater / Sleeper (2+1),19:45,23:50,04h 05m,INR 599,26 Seats available,4.4
+602,Delhi to Agra,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:00,23:55,03h 55m,637,12 Seats available,3.4
+603,Delhi to Agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),20:00,01:00,05h 00m,INR 806,25 Seats available,4.0
+604,Delhi to Agra,Raj Kalpana Travels Pvt.ltd.,A/C Sleeper (2+1),20:00,23:45,03h 45m,750,14 Seats available,3.9
+605,Delhi to Agra,Jamna Travels (Delhi),A/C Seater/Sleeper (2+1),20:00,00:10,04h 10m,INR 649,24 Seats available,3.4
+606,Delhi to Agra,Gola Bus Service,Bharat Benz A/C Seater /Sleeper (2+1),20:00,23:00,03h 00m,INR 699,15 Seats available,3.5
+607,Delhi to Agra,Khajuraho Travels,AC Sleeper (2+1),20:00,23:26,03h 26m,566,22 Seats available,4.0
+608,Delhi to Agra,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+1),20:00,23:59,03h 59m,INR 649,22 Seats available,4.1
+609,Delhi to Agra,Raj Kalpana Travels Pvt.Ltd,Bharat Benz A/C Seater /Sleeper (2+1),20:15,00:20,04h 05m,INR 800,1 Seat available,3.9
+610,Delhi to Agra,RAJ KALPANA TRAVELS PRIVATE LIMITED,A/C Sleeper (2+1),20:15,00:00,03h 45m,INR 599,23 Seats available,3.9
+611,Delhi to Agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:30,01:05,04h 35m,INR 806,27 Seats available,4.0
+612,Delhi to Agra,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:30,01:00,04h 30m,570,14 Seats available,3.4
+613,Delhi to Agra,SAFAR EXPRESS PVT LTD,AC Sleeper (2+1),20:30,23:23,02h 53m,600,16 Seats available,3.7
+614,Delhi to Agra,Maa Shakti Bhadra Travels,A/C Seater / Sleeper (2+2),20:35,23:30,02h 55m,INR 4000,34 Seats available,3.4
+615,Delhi to Agra,Raj Kalpana Travels Pvt.ltd.,A/C Sleeper (2+1),21:00,00:48,03h 48m,807,19 Seats available,3.9
+616,Delhi to Agra,Fouji travels,A/C Seater / Sleeper (2+1),21:00,00:00,03h 00m,INR 699,18 Seats available,4.2
+617,Delhi to Agra,R S YADAV SMART BUS PRIVATE LIMITED,VE A/C Seater / Sleeper (2+1),21:15,00:45,03h 30m,INR 649,18 Seats available,4.4
+618,Delhi to Agra,HIGHWAY STAR TRAVEL & CARGO,A/C Seater/Sleeper (2+1),21:15,23:50,02h 35m,INR 599,26 Seats available,3.1
+619,Delhi to Agra,Revanta Roadlines,A/C Seater / Sleeper (2+2),21:15,01:05,03h 50m,698,48 Seats available,3.9
+620,Delhi to Agra,Fouji travels,A/C Seater / Sleeper (2+1),21:15,00:30,03h 15m,INR 599,17 Seats available,4.2
+621,Delhi to Agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:20,02:05,04h 45m,INR 914,46 Seats available,4.0
+622,Delhi to Agra,R S YADAV SMART BUS PRIVATE LIMITED,VE A/C Semi Sleeper (2+2),21:30,01:10,03h 40m,INR 699,36 Seats available,4.4
+623,Delhi to Agra,Raj Kalpana Travels Pvt.Ltd,A/C Sleeper (2+1),21:30,00:45,03h 15m,INR 849,20 Seats available,3.9
+624,Delhi to Agra,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+1),21:30,01:25,03h 55m,650,36 Seats available,3.7
+625,Delhi to Agra,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),21:30,01:35,04h 05m,INR 600,29 Seats available,4.0
+626,Delhi to Agra,Fouji travels,A/C Seater / Sleeper (2+1),21:30,00:30,03h 00m,INR 799,14 Seats available,4.2
+627,Delhi to Agra,Sai Anand,A/C Seater / Sleeper (2+1),21:30,02:15,04h 45m,INR 549,19 Seats available,3.8
+628,Delhi to Agra,SAFAR EXPRESS PVT LTD,AC Sleeper (2+1),21:30,01:30,04h 00m,799,31 Seats available,3.7
+629,Delhi to Agra,Raj Kalpana Travels Pvt.ltd.,A/C Sleeper (2+1),22:00,01:25,03h 25m,647,26 Seats available,3.9
+630,Delhi to Agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:00,01:45,03h 45m,INR 587,20 Seats available,4.0
+631,Delhi to Agra,Laxmi holidays,VE A/C Seater / Sleeper (2+1),22:00,03:00,05h 00m,570,28 Seats available,3.4
+632,Delhi to Agra,Khajuraho Travels,AC Sleeper (2+1),22:00,02:00,04h 00m,INR 696,24 Seats available,4.0
+633,Delhi to Agra,IntrCity SmartBus,A/C Semi Sleeper / Sleeper (2+1),22:05,02:05,04h 00m,INR 1465,44 Seats available,4.0
+634,Delhi to Agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:20,02:15,03h 55m,INR 614,13 Seats available,4.0
+635,Delhi to Agra,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),22:30,02:00,03h 30m,664,21 Seats available,3.4
+636,Delhi to Agra,Raj Kalpana Travels Pvt.ltd.,A/C Sleeper (2+1),22:30,02:00,03h 30m,INR 699,16 Seats available,3.9
+637,Delhi to Agra,Mahalaxmi Travels,Volvo 9600 A/C Sleeper (2+1),22:30,03:30,05h 00m,INR 899,29 Seats available,3.8
+638,Delhi to Agra,Gola Bus Service,VE A/C Seater (2+2),22:40,03:10,04h 30m,INR 1499,45 Seats available,3.5
+639,Delhi to Agra,Raj Kalpana Travels Pvt.Ltd,A/C Sleeper (2+1),22:45,02:35,03h 50m,664,12 Seats available,3.9
+640,Delhi to Agra,Raj Kalpana Travels Pvt.ltd.,A/C Seater/Sleeper (2+1),23:00,02:35,03h 35m,INR 509,30 Seats available,3.9
+641,Delhi to Agra,Satlok express,A/C Seater / Sleeper (2+2),23:00,03:02,04h 02m,INR 799,39 Seats available,3.0
+642,Delhi to Agra,Satlok express,A/C Seater / Sleeper (2+1),23:00,03:02,04h 02m,INR 1427.62,43 Seats available,3.0
+643,Delhi to Agra,Raj Kalpana Travels Pvt.ltd.,A/C Sleeper (2+1),23:05,02:45,03h 40m,INR 549,18 Seats available,4.1
+644,Delhi to Agra,Raj Kalpana Travels Pvt.Ltd,VE A/C Seater (2+2),23:15,02:35,03h 20m,INR 1500,37 Seats available,3.9
+645,Delhi to Agra,Miles India Private Limited,Scania AC Multi Axle Sleeper (2+1),23:30,04:00,04h 30m,INR 649,19 Seats available,3.8
+646,Delhi to Agra,VIKAS TRAVELS ®,A/C Seater/Sleeper (2+1),23:45,04:35,04h 50m,INR 1599,32 Seats available,3.5
+647,Delhi to Agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:55,03:10,03h 15m,INR 513,26 Seats available,4.0
+648,Delhi to Agra,Panwar tour and Travels,A/C Seater / Sleeper (2+1),18:00,22:00,04h 00m,INR 1800,3 Seats available,1.5
+649,Delhi to Agra,Yadav Vishvkarma Tour And Travels,A/C Seater / Sleeper (2+1),18:01,21:41,03h 40m,INR 800,37 Seats available,2.8
+650,Delhi to Agra,Shiv Mahima Travels,A/C Seater / Sleeper (2+2),18:05,22:45,04h 40m,INR 1499,56 Seats available,1.2
+651,Delhi to Agra,KST Travels,A/C Seater / Sleeper (2+2),18:30,22:30,04h 00m,569,27 Seats available,2.7
+652,Delhi to Agra,Shri Siddhi Vinayak Travels,A/C Seater / Sleeper (2+1),19:00,23:50,04h 50m,INR 951.43,48 Seats available,2.2
+653,Delhi to Agra,Vinay Travels,Volvo A/C Seater / Sleeper (2+2),19:50,00:20,04h 30m,INR 590,32 Seats available,2.9
+654,Delhi to Agra,Shree Saroj Travels,A/C Seater/Sleeper (2+1),20:00,23:10,03h 10m,INR 599,28 Seats available,2.9
+655,Delhi to Agra,KISSAN TRAVELS PILANI,Bharat Benz A/C Seater /Sleeper (2+1),20:00,22:45,02h 45m,INR 1199,46 Seats available,2.7
+656,Delhi to Agra,New Shatabdi Travels,NON A/C Sleeper (2+1),20:00,00:30,04h 30m,INR 4500,30 Seats available,1.0
+657,Delhi to Agra,Vinay Travels,VE A/C Seater / Sleeper (2+1),20:30,00:20,03h 50m,1090,44 Seats available,2.9
+658,Delhi to Agra,Vishawnath tour and travel,AC Sleeper (2+1),20:30,00:35,04h 05m,INR 1200,30 Seats available,No rating
+659,Delhi to Agra,Shri Sai Safar Travels,A/C Seater / Sleeper (2+1),20:30,00:46,04h 16m,INR 550,35 Seats available,2.0
+660,Delhi to Agra,Shri Sai Safar Travels,A/C Seater / Sleeper (2+1),20:31,02:31,06h 00m,INR 523.81,14 Seats available,2.0
+661,Delhi to Agra,Shri Sai Safar Travels,A/C Seater / Sleeper (2+1),20:40,01:26,04h 46m,INR 999,6 Seats available,2.0
+662,Delhi to Agra,Dhruv Travels,A/C Seater / Sleeper (2+2),21:00,00:40,03h 40m,INR 607,35 Seats available,2.9
+663,Delhi to Agra,Shree Saroj Travels,A/C Seater / Sleeper (2+2),21:00,00:05,03h 05m,INR 599,36 Seats available,2.9
+664,Delhi to Agra,Pitambra Travels (Sunny Safar Express),A/C Sleeper (2+1),21:30,00:35,03h 05m,INR 699,17 Seats available,2.9
+665,Delhi to Agra,DIVYANSHU TRAVELS,A/C Sleeper (2+1),22:00,02:30,04h 30m,760,18 Seats available,1.9
+666,Delhi to Agra,Shitla Travels,A/C Sleeper (2+1),22:00,03:30,05h 30m,INR 600,24 Seats available,2.3
+667,Delhi to Agra,NAYAR TRAVELS (OPC) PVT LTD,A/C Sleeper (2+1),22:30,00:30,02h 00m,INR 1699,34 Seats available,2.0
+668,Delhi to Agra,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+2),22:30,02:30,04h 00m,924,38 Seats available,2.9
+669,Delhi to Agra,Rajdhani Tourist Bus Service,A/C Sleeper (2+1),22:50,03:30,04h 40m,1155,17 Seats available,No rating
+670,Delhi to Agra,Kalpana Travels Kanpur,AC Sleeper (2+1),23:00,02:50,03h 50m,INR 599,27 Seats available,2.1
+671,Delhi to Agra,Panwar tour and Travels,A/C Seater / Sleeper (2+1),23:00,02:40,03h 40m,INR 1150,18 Seats available,1.5
+672,Delhi to Agra,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),23:00,03:00,04h 00m,1017,17 Seats available,2.9
+673,Delhi to Agra,RAO SAHAB TRAVELS PRIVATE LIMITED,A/C Seater / Sleeper (2+1),23:01,04:01,05h 00m,INR 999,26 Seats available,1.4
+674,Delhi to Agra,Shishpal Bus Service,A/C Seater Push Back (2+2),23:10,03:00,03h 50m,INR 599,25 Seats available,2.3
+675,Delhi to Agra,Panwar tour and Travels,A/C Seater (2+2),23:15,03:15,04h 00m,INR 1414,25 Seats available,1.5
+676,Delhi to Agra,Shree Hare Rama Travels,A/C Seater / Sleeper (2+2),23:50,03:35,03h 45m,949,35 Seats available,2.9
+677,Delhi to Agra,DIVYANSHU TRAVELS,A/C Sleeper (2+2),23:55,04:10,04h 15m,1140,36 Seats available,1.9
+678,Delhi to Agra,Shree Hare Rama Travels,A/C Seater / Sleeper (2+2),23:55,03:00,03h 05m,1424,38 Seats available,2.9
+679,Delhi to Shahjahanpur (Uttar Pradesh),UPSRTC - HDD0145,Ordinary Non AC Seater 2+3,19:02,04:37,09h 35m,INR 564,52 Seats available,3.3
+680,Delhi to Shahjahanpur (Uttar Pradesh),UPSRTC - HDD0095,Ordinary Non AC Seater 2+3,19:02,04:55,09h 53m,INR 580,52 Seats available,No rating
+681,Delhi to Shahjahanpur (Uttar Pradesh),UPSRTC - HDD0069,Ordinary Non AC Seater 2+3,19:29,04:12,08h 43m,INR 580,52 Seats available,No rating
+682,Delhi to Shahjahanpur (Uttar Pradesh),UPSRTC - SJP0202,Ordinary Non AC Seater 2+3,19:40,03:01,07h 21m,INR 584,52 Seats available,No rating
+683,Delhi to Shahjahanpur (Uttar Pradesh),UPSRTC - HDD0031,Ordinary Non AC Seater 2+3,19:45,05:00,09h 15m,INR 580,52 Seats available,3.3
+684,Delhi to Shahjahanpur (Uttar Pradesh),UPSRTC - SJP0206,Ordinary Non AC Seater 2+3,19:47,03:07,07h 20m,INR 584,52 Seats available,No rating
+685,Delhi to Shahjahanpur (Uttar Pradesh),UPSRTC - HDD0105,Rajdhani Non AC Seater 2+3,20:00,04:10,08h 10m,INR 564,51 Seats available,3.3
+686,Delhi to Shahjahanpur (Uttar Pradesh),UPSRTC - AWD0240,Janrath AC Seater 2+3,20:02,03:50,07h 48m,INR 661,48 Seats available,3.3
+687,Delhi to Shahjahanpur (Uttar Pradesh),UPSRTC - HDD0147,Ordinary Non AC Seater 2+3,20:03,04:20,08h 17m,INR 580,52 Seats available,3.3
+688,Delhi to Shahjahanpur (Uttar Pradesh),UPSRTC - LKM0023,Shatabdi AC Seater 2+2,20:03,02:55,06h 52m,INR 791,35 Seats available,3.3
+689,Delhi to Shahjahanpur (Uttar Pradesh),UPSRTC - SJP0213,Ordinary Non AC Seater 2+3,20:42,04:02,07h 20m,INR 584,52 Seats available,3.3
+690,Delhi to Shahjahanpur (Uttar Pradesh),UPSRTC - KSB0039,Janrath AC Seater 2+2,20:45,03:10,06h 25m,INR 768,35 Seats available,1.9
+691,Delhi to Shahjahanpur (Uttar Pradesh),UPSRTC - SJP0215,Ordinary Non AC Seater 2+3,20:57,04:17,07h 20m,INR 584,52 Seats available,No rating
+692,Delhi to Shahjahanpur (Uttar Pradesh),UPSRTC - SJP0210,Ordinary Non AC Seater 2+3,21:12,04:32,07h 20m,INR 584,52 Seats available,No rating
+693,Delhi to Shahjahanpur (Uttar Pradesh),UPSRTC - GLA0142,Janrath AC Seater 2+2,21:19,04:05,06h 46m,INR 791,34 Seats available,3.3
+694,Delhi to Shahjahanpur (Uttar Pradesh),UPSRTC - SJP0220,Ordinary Non AC Seater 2+3,21:22,04:42,07h 20m,INR 584,52 Seats available,No rating
+695,Delhi to Shahjahanpur (Uttar Pradesh),UPSRTC - LKM0025,Shatabdi AC Seater 2+2,21:50,04:35,06h 45m,INR 791,33 Seats available,3.3
+696,Delhi to Shahjahanpur (Uttar Pradesh),UPSRTC - SJP0227,Ordinary Non AC Seater 2+3,22:02,05:22,07h 20m,INR 584,52 Seats available,3.3
+697,Delhi to Shahjahanpur (Uttar Pradesh),UPSRTC - SJP0244,Ordinary Non AC Seater 2+3,22:32,05:52,07h 20m,INR 584,52 Seats available,3.3
+698,Delhi to Shahjahanpur (Uttar Pradesh),UPSRTC - SJP0250,Ordinary Non AC Seater 2+3,23:02,06:22,07h 20m,INR 584,52 Seats available,3.3
+699,Agra to Delhi,UPSRTC - BRT0002,Ordinary Non AC Seater 2+3,19:00,00:30,05h 30m,INR 394,52 Seats available,3.3
+700,Agra to Delhi,UPSRTC - ETD0017,Ordinary Non AC Seater 2+3,23:55,04:30,04h 35m,INR 295,52 Seats available,3.3
+701,Agra to Delhi,NueGo,Electric A/C Seater (2+2),18:00,22:35,04h 35m,499,1 Seat available,4.0
+702,Agra to Delhi,NueGo,Electric A/C Seater (2+2),19:00,23:35,04h 35m,284,20 Seats available,3.7
+703,Agra to Delhi,NueGo,Electric A/C Seater (2+2),21:00,01:15,04h 15m,256,32 Seats available,4.1
+704,Agra to Delhi,NueGo,Electric A/C Seater (2+2),22:00,02:15,04h 15m,259,31 Seats available,4.2
+705,Agra to Delhi,NueGo,Electric A/C Seater (2+2),23:55,04:10,04h 15m,277,29 Seats available,4.1
+706,Agra to Delhi,RAWAT HOLIDAYS,A/C Seater (2+2),17:55,22:00,04h 05m,INR 399,22 Seats available,1.0
+707,Agra to Delhi,Ashok tour and Travels,AC Seater (2+2),18:00,23:15,05h 15m,INR 284.76,36 Seats available,1.8
+708,Agra to Delhi,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+1),18:21,21:50,03h 29m,400,25 Seats available,1.8
+709,Agra to Delhi,Raj Kalpana Travels Pvt.ltd.,VE A/C Seater (2+2),18:45,22:00,03h 15m,INR 599,20 Seats available,3.9
+710,Agra to Delhi,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:10,01:40,03h 30m,648,1 Seat available,3.5
+711,Agra to Delhi,PTC-SKYBUS,VE A/C Seater / Sleeper (2+1),22:50,02:15,03h 25m,INR 1399,1 Seat available,3.8
+712,Agra to Delhi,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Seater/Sleeper (2+1),23:59,03:30,03h 31m,INR 899,14 Seats available,3.2
+713,Agra to Delhi,Gola Bus Service,VE A/C Seater / Sleeper (2+1),18:00,20:30,02h 30m,INR 1799,3 Seats available,2.4
+714,Agra to Delhi,DIVYANSHU TRAVELS,A/C Sleeper (2+1),23:05,04:05,05h 00m,665,31 Seats available,1.9
+715,Lucknow to Ballia,UPSRTC - GLA0144,Janrath AC Seater 2+2,22:55,06:20,07h 25m,INR 895,36 Seats available,3.3
+716,Lucknow to Ballia,Aadishakti Travels,Bharat Benz A/C Seater (2+2),22:30,04:30,06h 00m,INR 3000,45 Seats available,3.6
+717,Bareilly to Dehradun,UPSRTC - RKD0039,Janrath AC Seater 2+2,21:00,05:00,08h 00m,INR 814,33 Seats available,4.1
+718,Bareilly to Dehradun,UPSRTC - VKS0001,Janrath AC Seater 2+2,22:05,05:15,07h 10m,INR 830,29 Seats available,3.4
+719,Allahabad to Azamgarh,UPSRTC - BTR0023,Ordinary Non AC Seater 2+3,19:00,01:17,06h 17m,INR 258,52 Seats available,3.3
+720,Kanpur (Uttar Pradesh) to Bareilly,UPSRTC - VKS0005,Janrath AC Seater 2+3,20:00,04:00,08h 00m,INR 506,47 Seats available,3.0
+721,Kanpur (Uttar Pradesh) to Bareilly,UPSRTC - PLB0044,Ordinary Non AC Seater 2+3,22:45,05:00,06h 15m,INR 391,52 Seats available,3.3
+722,Kanpur (Uttar Pradesh) to Bareilly,UPSRTC - BLY0096,Janrath AC Seater 2+2,23:03,06:01,06h 58m,INR 589,35 Seats available,3.0
+723,Kanpur (Uttar Pradesh) to Bareilly,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),19:30,03:50,08h 20m,462,25 Seats available,3.7
+724,Kanpur (Uttar Pradesh) to Bareilly,Samay Shatabdi Travels Pvt Ltd,AC Sleeper (2+1),21:01,03:46,06h 45m,INR 749,9 Seats available,3.0
+725,Lucknow to Ayodhya,UPSRTC - DOR0004,Rajdhani Non AC Seater 2+3,20:40,23:36,02h 56m,INR 233,51 Seats available,3.3
+726,Lucknow to Ayodhya,UPSRTC - AKP0186,Ordinary Non AC Seater 2+3,20:46,00:05,03h 19m,INR 222,52 Seats available,3.3
+727,Lucknow to Ayodhya,UPSRTC - AKP0189,Ordinary Non AC Seater 2+3,21:46,23:22,01h 36m,INR 196,52 Seats available,No rating
+728,Lucknow to Ayodhya,UPSRTC - GKD0143,Janrath AC Seater 2+2,22:00,01:11,03h 11m,INR 344,36 Seats available,3.3
+729,Lucknow to Ayodhya,UPSRTC - BTR0027,Ordinary Non AC Seater 2+3,22:10,02:10,04h 00m,INR 230,52 Seats available,3.3
+730,Lucknow to Ayodhya,UPSRTC - STD0374,Ordinary Non AC Seater 2+3,22:15,01:39,03h 24m,INR 213,52 Seats available,No rating
+731,Lucknow to Ayodhya,UPSRTC - VKS0007,Janrath AC Seater 2+3,23:00,02:00,03h 00m,INR 300,48 Seats available,3.3
+732,Lucknow to Ayodhya,UPSRTC - AYD0060,Ordinary Non AC Seater 2+3,23:02,02:30,03h 28m,INR 233,52 Seats available,3.3
+733,Lucknow to Ayodhya,UPSRTC - AKP0218,Ordinary Non AC Seater 2+3,23:41,03:02,03h 21m,INR 200,52 Seats available,3.3
+734,Lucknow to Ayodhya,Anshi Raj Shree Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:59,02:55,02h 56m,INR 500,4 Seats available,4.1
+735,Lucknow to Ayodhya,Samay Shatabdi Travels Pvt Ltd,NON A/C Sleeper (2+1),23:45,02:30,02h 45m,INR 499,15 Seats available,3.8
+736,Lucknow to Ayodhya,Shatabdi Travels Gorakhpur,AC Sleeper (2+1),23:46,03:31,03h 45m,INR 700,5 Seats available,No rating
+737,Lucknow to Ayodhya,Panwar Travels,A/C Seater / Sleeper (2+1),21:30,01:30,04h 00m,2590,25 Seats available,2.8
+738,Lucknow to Ayodhya,Shree Balajee Travels And Cargo,A/C Seater / Sleeper (2+1),23:30,03:00,03h 30m,INR 1799,47 Seats available,1.2
+739,Lucknow to Ayodhya,Maan Travels,NON AC Seater / Sleeper 2+1,23:55,01:00,01h 05m,INR 1050,27 Seats available,1.6
+740,Aligarh (uttar pradesh) to Lucknow,UPSRTC - HTR0132,Ordinary Non AC Seater 2+3,19:00,04:30,09h 30m,INR 655,52 Seats available,3.3
+741,Aligarh (uttar pradesh) to Lucknow,UPSRTC - AWD0199,Pink Express AC Seater 2+2,20:02,04:00,07h 58m,INR 948,36 Seats available,3.1
+742,Aligarh (uttar pradesh) to Lucknow,UPSRTC - BDV0077,Janrath AC Seater 2+2,21:20,05:00,07h 40m,INR 948,30 Seats available,3.3
+743,Aligarh (uttar pradesh) to Lucknow,UPSRTC - ALI0171,Rajdhani Non AC Seater 2+3,21:30,08:20,10h 50m,INR 600,51 Seats available,No rating
+744,Aligarh (uttar pradesh) to Lucknow,Raaj Rath Travels Co.,A/C Seater / Sleeper (2+1),22:15,05:15,07h 00m,INR 4000,34 Seats available,3.5
+745,Aligarh (uttar pradesh) to Agra,UPSRTC - HTR0132,Ordinary Non AC Seater 2+3,19:00,22:00,03h 00m,INR 140,52 Seats available,3.3
+746,Aligarh (uttar pradesh) to Agra,UPSRTC - AWD0199,Pink Express AC Seater 2+2,20:02,22:00,01h 58m,INR 215,40 Seats available,4.4
+747,Aligarh (uttar pradesh) to Agra,UPSRTC - BDV0077,Janrath AC Seater 2+2,21:20,23:30,02h 10m,INR 215,32 Seats available,3.3
+748,Lucknow to Haridwar,UPSRTC - CBG0092,Pink Express AC Seater 2+2,21:01,08:00,10h 59m,INR 1170,37 Seats available,3.1
+749,Lucknow to Haridwar,PTC-SKYBUS,VE A/C Seater / Sleeper (2+1),18:15,05:50,11h 35m,INR 1399,1 Seat available,4.7
+750,Lucknow to Kanpur (Uttar Pradesh),UPSRTC - JHD0021,Ordinary Non AC Seater 2+3,19:30,22:50,03h 20m,INR 146,52 Seats available,3.3
+751,Lucknow to Kanpur (Uttar Pradesh),UPSRTC - MHB0052,Ordinary Non AC Seater 2+3,19:30,21:49,02h 19m,INR 146,52 Seats available,3.3
+752,Lucknow to Kanpur (Uttar Pradesh),UPSRTC - RAT0030,Ordinary Non AC Seater 2+3,19:30,02:30,07h 00m,INR 146,52 Seats available,3.3
+753,Lucknow to Kanpur (Uttar Pradesh),UPSRTC - JHD0019,Ordinary Non AC Seater 2+3,19:50,22:15,02h 25m,INR 142,52 Seats available,3.3
+754,Lucknow to Kanpur (Uttar Pradesh),UPSRTC - JHD0024,Ordinary Non AC Seater 2+3,20:30,23:30,03h 00m,INR 146,52 Seats available,3.3
+755,Lucknow to Kanpur (Uttar Pradesh),UPSRTC - AKP0061,Ordinary Non AC Seater 2+3,20:45,22:45,02h 00m,INR 142,49 Seats available,3.3
+756,Lucknow to Kanpur (Uttar Pradesh),UPSRTC - AKP0065,Ordinary Non AC Seater 2+3,21:15,23:15,02h 00m,INR 142,46 Seats available,3.3
+757,Lucknow to Kanpur (Uttar Pradesh),UPSRTC - JHD0026,Ordinary Non AC Seater 2+3,21:30,01:01,03h 31m,INR 146,52 Seats available,3.3
+758,Lucknow to Kanpur (Uttar Pradesh),UPSRTC - HMR0030,Ordinary Non AC Seater 2+3,22:01,01:00,02h 59m,INR 146,52 Seats available,3.3
+759,Lucknow to Kanpur (Uttar Pradesh),UPSRTC - BLP0097,Ordinary Non AC Seater 2+3,23:55,02:30,02h 35m,INR 142,52 Seats available,3.3
+760,Lucknow to Kanpur (Uttar Pradesh),RSRTC - 193674,Express Non AC Seater 2+3,19:40,22:00,02h 20m,INR 130,42 Seats available,No rating
+761,Lucknow to Kanpur (Uttar Pradesh),Jai Shrinath Ji Ki ® Travels,Bharat Benz A/C Sleeper (2+1),18:30,21:05,02h 35m,INR 600,17 Seats available,4.5
+762,Lucknow to Kanpur (Uttar Pradesh),Babu Travels,Volvo A/C Seater / Sleeper (2+1),18:45,21:15,02h 30m,INR 699,9 Seats available,4.0
+763,Lucknow to Kanpur (Uttar Pradesh),BTS Bundelkhand Transport Services LLP,Non A/C Seater / Sleeper (2+1),21:45,23:55,02h 10m,INR 200,19 Seats available,4.3
+764,Lucknow to Kanpur (Uttar Pradesh),Shatabdi Travels Gurugram,AC Sleeper (2+1),18:35,21:35,03h 00m,1199,29 Seats available,3.5
+765,Lucknow to Kanpur (Uttar Pradesh),Samreen Travels,AC Sleeper (2+1),19:00,21:30,02h 30m,INR 900,24 Seats available,3.7
+766,Lucknow to Kanpur (Uttar Pradesh),Hans Travels (I) Private Limited,A/C Sleeper (2+2),19:43,23:13,03h 30m,INR 1600,32 Seats available,3.2
+767,Lucknow to Kanpur (Uttar Pradesh),Raaj Rath Travels Co.,A/C Sleeper (2+1),21:30,23:30,02h 00m,INR 4000,36 Seats available,3.5
+768,Lucknow to Kanpur (Uttar Pradesh),BSS COOL COOL TRAVELS,VE A/C Sleeper (2+1),22:10,00:30,02h 20m,INR 1700,17 Seats available,4.1
+769,Lucknow to Kanpur (Uttar Pradesh),Arhaan Travels,AC Sleeper (2+1),18:55,21:10,02h 15m,INR 1599,31 Seats available,2.8
+770,Lucknow to Kanpur (Uttar Pradesh),Betrwanti Travels,A/C Sleeper (2+1),22:00,23:45,01h 45m,INR 1800,22 Seats available,No rating
+771,Lucknow to Kanpur (Uttar Pradesh),Betrwanti Travels,NON A/C Sleeper (1+2),23:55,02:35,02h 40m,INR 1300,22 Seats available,No rating
+772,Delhi to Etah (Uttar Pradesh),UPSRTC - HDD0159,Ordinary Non AC Seater 2+3,18:59,00:05,05h 06m,INR 353,52 Seats available,No rating
+773,Delhi to Etah (Uttar Pradesh),UPSRTC - HDD0025,Ordinary Non AC Seater 2+3,19:00,02:30,07h 30m,INR 356,52 Seats available,3.3
+774,Delhi to Etah (Uttar Pradesh),UPSRTC - HDD0111,Ordinary Non AC Seater 2+3,19:03,02:10,07h 07m,INR 371,52 Seats available,3.3
+775,Delhi to Etah (Uttar Pradesh),UPSRTC - HDD0174,Ordinary Non AC Seater 2+3,19:06,00:30,05h 24m,INR 371,52 Seats available,No rating
+776,Delhi to Etah (Uttar Pradesh),UPSRTC - HDD0163,Ordinary Non AC Seater 2+3,19:32,00:20,04h 48m,INR 356,52 Seats available,No rating
+777,Delhi to Etah (Uttar Pradesh),UPSRTC - HDD0131,Ordinary Non AC Seater 2+3,20:07,23:55,03h 48m,INR 371,52 Seats available,3.3
+778,Delhi to Etah (Uttar Pradesh),UPSRTC - HDD0173,Ordinary Non AC Seater 2+3,20:16,01:24,05h 08m,INR 342,52 Seats available,3.3
+779,Delhi to Etah (Uttar Pradesh),UPSRTC - ETH0045,Ordinary Non AC Seater 2+3,20:30,01:40,05h 10m,INR 371,52 Seats available,3.3
+780,Delhi to Etah (Uttar Pradesh),UPSRTC - ARY0006,Ordinary Non AC Seater 2+3,20:30,02:45,06h 15m,INR 354,52 Seats available,3.3
+781,Delhi to Etah (Uttar Pradesh),UPSRTC - ETH0075,Ordinary Non AC Seater 2+3,20:31,01:40,05h 09m,INR 371,52 Seats available,No rating
+782,Delhi to Etah (Uttar Pradesh),UPSRTC - SBD0107,Janrath AC Seater 2+2,20:31,01:50,05h 19m,INR 501,36 Seats available,3.3
+783,Delhi to Etah (Uttar Pradesh),UPSRTC - KSB0072,Janrath AC Seater 2+3,22:02,03:00,04h 58m,INR 435,42 Seats available,3.6
+784,Delhi to Etah (Uttar Pradesh),Chaturvedi Bus Service,NON A/C Seater/ Sleeper (2+1),22:00,03:30,05h 30m,INR 670,51 Seats available,2.6
+785,Delhi to Etah (Uttar Pradesh),Chaturvedi Bus Service,NON AC Seater / Sleeper 2+1,21:00,02:30,05h 30m,INR 670,45 Seats available,2.6
+786,Delhi to Etah (Uttar Pradesh),Chaturvedi Bus Service,A/C Seater / Sleeper (2+1),20:40,04:00,07h 20m,INR 570,48 Seats available,2.6
+787,Delhi to Kotdwar (Uttarakhand),UPSRTC - GRH0086,Ordinary Non AC Seater 2+3,19:20,03:15,07h 55m,INR 368,52 Seats available,3.1
+788,Delhi to Kotdwar (Uttarakhand),UPSRTC - NJB0121,Ordinary Non AC Seater 2+3,20:20,03:40,07h 20m,INR 379,52 Seats available,3.3
+789,Delhi to Kotdwar (Uttarakhand),UPSRTC - NJB0126,Ordinary Non AC Seater 2+3,21:20,04:40,07h 20m,INR 379,52 Seats available,3.3
+790,Delhi to Kotdwar (Uttarakhand),UPSRTC - NJB0131,Ordinary Non AC Seater 2+3,22:40,05:00,06h 20m,INR 379,52 Seats available,4.1
+791,Allahabad to Varanasi,Travel Point World LLP,AC Sleeper (2+1),19:15,20:45,01h 30m,3040,22 Seats available,1.5
+792,Delhi to Moradabad,UPSRTC - HDD0095,Ordinary Non AC Seater 2+3,19:02,23:00,03h 58m,INR 294,52 Seats available,No rating
+793,Delhi to Moradabad,UPSRTC - HDD0145,Ordinary Non AC Seater 2+3,19:02,00:20,05h 18m,INR 294,52 Seats available,No rating
+794,Delhi to Moradabad,UPSRTC - HDD0069,Ordinary Non AC Seater 2+3,19:29,22:02,02h 33m,INR 294,52 Seats available,No rating
+795,Delhi to Moradabad,UPSRTC - MDD0034,Ordinary Non AC Seater 2+3,19:30,23:00,03h 30m,INR 298,52 Seats available,3.3
+796,Delhi to Moradabad,UPSRTC - HDD0031,Ordinary Non AC Seater 2+3,19:45,01:00,05h 15m,INR 294,52 Seats available,3.3
+797,Delhi to Moradabad,UPSRTC - HDD0105,Rajdhani Non AC Seater 2+3,20:00,23:50,03h 50m,INR 294,51 Seats available,3.3
+798,Delhi to Moradabad,UPSRTC - MDD0038,Ordinary Non AC Seater 2+3,20:00,23:30,03h 30m,INR 298,52 Seats available,3.3
+799,Delhi to Moradabad,UPSRTC - AWD0240,Janrath AC Seater 2+3,20:02,23:35,03h 33m,INR 333,48 Seats available,3.3
+800,Delhi to Moradabad,UPSRTC - LKM0023,Shatabdi AC Seater 2+2,20:03,23:25,03h 22m,INR 388,37 Seats available,3.3
+801,Delhi to Moradabad,UPSRTC - HDD0147,Ordinary Non AC Seater 2+3,20:03,00:04,04h 01m,INR 294,52 Seats available,3.3
+802,Delhi to Moradabad,Fasttrack Travels,A/C Seater/Sleeper (2+1),21:30,02:15,04h 45m,449,34 Seats available,4.7
+803,Delhi to Moradabad,R S YADAV SMART BUS PRIVATE LIMITED,Bharat Benz A/C Seater /Sleeper (2+1),22:00,02:25,04h 25m,INR 449,26 Seats available,4.4
+804,Delhi to Moradabad,R S YADAV SMART BUS PRIVATE LIMITED,VE A/C Sleeper (2+1),22:15,02:15,04h 00m,INR 799,33 Seats available,4.4
+805,Delhi to Moradabad,International Tourist Centre,VE A/C Seater / Sleeper (2+1),22:15,02:40,04h 25m,INR 499,32 Seats available,4.8
+806,Delhi to Moradabad,International Tourist Centre,VE A/C Seater / Sleeper (2+1),22:25,02:45,04h 20m,INR 449,31 Seats available,4.8
+807,Delhi to Moradabad,Fasttrack Travels,VE A/C Seater / Sleeper (2+2),22:30,01:50,03h 20m,499,32 Seats available,4.7
+808,Delhi to Moradabad,Satlok express,AC Seater (2+2),22:30,02:31,04h 01m,INR 699,49 Seats available,3.0
+809,Delhi to Moradabad,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),22:45,01:10,02h 25m,INR 550,46 Seats available,4.3
+810,Delhi to Moradabad,Satlok express,A/C Seater / Sleeper (2+1),22:45,02:46,04h 01m,INR 800,43 Seats available,3.0
+811,Delhi to Moradabad,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),23:00,03:00,04h 00m,INR 445,36 Seats available,4.6
+812,Delhi to Moradabad,FlixBus,A/C Seater (2+2),23:15,02:40,03h 25m,INR 208,29 Seats available,4.3
+813,Delhi to Moradabad,Satlok express,A/C Seater / Sleeper (2+2),23:20,03:21,04h 01m,INR 665.71,61 Seats available,3.0
+814,Delhi to Moradabad,ROYAL SAFARI INDIA TRAVELS,Bharat Benz A/C Seater /Sleeper (2+1),22:30,02:30,04h 00m,INR 499,24 Seats available,2.4
+815,Delhi to Moradabad,ROYAL SAFARI INDIA TRAVELS,Bharat Benz A/C Semi Sleeper (2+2),22:30,02:30,04h 00m,INR 799,31 Seats available,2.4
+816,Delhi to Moradabad,VIP LUXURY TRIPS,A/C Seater / Sleeper (2+2),22:45,03:00,04h 15m,539,50 Seats available,No rating
+817,Delhi to Moradabad,VIP LUXURY TRIPS,A/C Seater / Sleeper (2+2),22:45,03:00,04h 15m,314,41 Seats available,No rating
+818,Delhi to Moradabad,Shri Bawa Lal Tour and Travels,A/C Seater/Sleeper (2+1),23:00,02:30,03h 30m,INR 500,30 Seats available,No rating
+819,Delhi to Moradabad,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),23:00,00:55,01h 55m,INR 434,38 Seats available,1.5
+820,Delhi to Moradabad,Shri Krishna Bus Service,A/C Seater / Sleeper (2+1),23:01,02:13,03h 12m,647,40 Seats available,2.6
+821,Delhi to Moradabad,Rahul Travels,AshokLeyland Stile A/C,21:00,00:30,03h 30m,INR 826,8 Seats available,3.6
+822,Delhi to Moradabad,Rahul Travels,AshokLeyland Stile A/C,21:30,00:30,03h 00m,INR 826,30 Seats available,3.6
+823,Delhi to Moradabad,ROYAL SAFARI INDIA TRAVELS,A/C Semi Sleeper (2+2),22:30,02:30,04h 00m,1079,36 Seats available,2.4
+824,Delhi to Moradabad,Shree Hare Rama Travels,VE A/C Semi Sleeper (2+2),23:55,03:30,03h 35m,949,18 Seats available,2.9
+825,Varanasi to Allahabad,UPSRTC - VKS0026,Janrath AC Seater 2+2,19:50,22:30,02h 40m,INR 296,36 Seats available,2.4
+826,Varanasi to Allahabad,UPSRTC - VKS0004,Janrath AC Seater 2+3,21:50,00:25,02h 35m,INR 258,48 Seats available,3.3
+827,Varanasi to Allahabad,UPSRTC - KDN0004,Janrath AC Seater 2+3,22:00,00:45,02h 45m,INR 258,48 Seats available,3.3
+828,Varanasi to Allahabad,UPSRTC - KDN0028,Janrath AC Seater 2+2,23:01,02:00,02h 59m,INR 296,36 Seats available,2.2
+829,Varanasi to Allahabad,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),18:00,21:15,03h 15m,740,22 Seats available,3.0
+830,Varanasi to Allahabad,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),19:00,21:15,02h 15m,INR 949,2 Seats available,3.8
+831,Varanasi to Allahabad,HIGHWAY STAR TRAVEL & CARGO,A/C Seater / Sleeper (2+1),20:15,22:40,02h 25m,INR 1199,32 Seats available,3.1
+832,Varanasi to Allahabad,Sethi Yatra Company,A/C Seater/Sleeper (2+1),22:00,23:58,01h 58m,INR 399,21 Seats available,3.9
+833,Varanasi to Allahabad,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:30,00:30,02h 00m,INR 399,17 Seats available,3.8
+834,Varanasi to Allahabad,Radhika Travels,Non A/C Seater / Sleeper (2+1),18:00,21:00,03h 00m,INR 650,19 Seats available,2.5
+835,Varanasi to Allahabad,Sanjay Travels,AC Sleeper (2+1),19:15,22:31,03h 16m,INR 1400,30 Seats available,2.9
+836,Varanasi to Allahabad,Ambika Tour and Travels,AC Sleeper (2+1),22:25,01:35,03h 10m,INR 2500,34 Seats available,2.2
+837,Varanasi to Allahabad,Ambika Travels,NON AC Seater / Sleeper 2+1,22:30,01:40,03h 10m,INR 1200,26 Seats available,1.6
+838,Lucknow to Jaunpur,UPSRTC - CNT0039,Ordinary Non AC Seater 2+3,19:30,01:00,05h 30m,INR 379,51 Seats available,3.3
+839,Lucknow to Jaunpur,UPSRTC - CNT0043,Ordinary Non AC Seater 2+3,20:00,01:30,05h 30m,INR 379,51 Seats available,3.3
+840,Lucknow to Jaunpur,UPSRTC - JNP0013,Ordinary Non AC Seater 2+3,20:20,02:00,05h 40m,INR 379,52 Seats available,3.3
+841,Lucknow to Jaunpur,UPSRTC - CNT0041,Ordinary Non AC Seater 2+3,20:30,02:00,05h 30m,INR 379,51 Seats available,3.3
+842,Lucknow to Jaunpur,UPSRTC - JNP0012,Ordinary Non AC Seater 2+3,20:30,02:30,06h 00m,INR 379,52 Seats available,3.3
+843,Lucknow to Jaunpur,UPSRTC - ALM0068,Shatabdi AC Seater 2+2,20:45,03:21,06h 36m,INR 562,41 Seats available,4.4
+844,Lucknow to Jaunpur,UPSRTC - CNT0047,Ordinary Non AC Seater 2+3,21:00,02:30,05h 30m,INR 379,51 Seats available,3.3
+845,Lucknow to Jaunpur,UPSRTC - ALM0043,Volvo AC Seater 2+2,22:00,03:30,05h 30m,INR 800,37 Seats available,5.0
+846,Lucknow to Jaunpur,UPSRTC - MTH0002,Ordinary Non AC Seater 2+3,22:00,03:00,05h 00m,INR 379,52 Seats available,3.3
+847,Lucknow to Jaunpur,UPSRTC - CNT0057,Ordinary Non AC Seater 2+3,22:30,04:00,05h 30m,INR 379,52 Seats available,3.3
+848,Lucknow to Jaunpur,UPSRTC - GLA0137,Janrath AC Seater 2+2,23:05,04:15,05h 10m,INR 562,36 Seats available,3.3
+849,Lucknow to Jaunpur,Yolo Bus,A/C Sleeper (2+1),22:19,04:04,05h 45m,INR 549,20 Seats available,3.9
+850,Lucknow to Jaunpur,Golden Holidays,A/C Seater / Sleeper (2+1),22:40,04:10,05h 30m,INR 599,23 Seats available,2.6
+851,Aligarh (uttar pradesh) to Haridwar,UPSRTC - ALI0062,Janrath AC Seater 2+2,20:00,03:05,07h 05m,INR 739,36 Seats available,3.3
+852,Aligarh (uttar pradesh) to Haridwar,UPSRTC - ALI0153,Ordinary Non AC Seater 2+3,20:00,03:20,07h 20m,INR 488,52 Seats available,3.3
+853,Aligarh (uttar pradesh) to Haridwar,UPSRTC - ALI0160,Janrath AC Seater 2+2,20:00,03:20,07h 20m,INR 739,36 Seats available,3.3
+854,Aligarh (uttar pradesh) to Haridwar,UPSRTC - TAJ0047,Pink Express AC Seater 2+2,21:55,04:14,06h 19m,INR 739,33 Seats available,4.5
+855,Aligarh (uttar pradesh) to Haridwar,UPSRTC - TAJ0051,Janrath AC Seater 2+3,23:00,05:30,06h 30m,INR 606,46 Seats available,2.3
+856,Aligarh (uttar pradesh) to Haridwar,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Sleeper (2+1),23:59,04:30,04h 31m,INR 649,22 Seats available,3.4
+857,Aligarh (uttar pradesh) to Haridwar,Baba Travels Mathura,A/C Seater Push Back (2+2),23:58,05:00,05h 02m,INR 999,41 Seats available,4.4
+858,Shahjahanpur (Uttar Pradesh) to Delhi,UPSRTC - BRT0007,Ordinary Non AC Seater 2+3,19:40,04:00,08h 20m,INR 567,52 Seats available,3.3
+859,Shahjahanpur (Uttar Pradesh) to Delhi,UPSRTC - SJP0281,Ordinary Non AC Seater 2+3,19:45,03:05,07h 20m,INR 584,52 Seats available,No rating
+860,Shahjahanpur (Uttar Pradesh) to Delhi,UPSRTC - STD0163,Ordinary Non AC Seater 2+3,19:58,05:16,09h 18m,INR 532,52 Seats available,3.3
+861,Shahjahanpur (Uttar Pradesh) to Delhi,UPSRTC - STD0368,Ordinary Non AC Seater 2+3,20:01,04:40,08h 39m,INR 563,52 Seats available,No rating
+862,Shahjahanpur (Uttar Pradesh) to Delhi,UPSRTC - HDD0005,Janrath AC Seater 2+2,20:45,05:30,08h 45m,INR 789,30 Seats available,3.9
+863,Shahjahanpur (Uttar Pradesh) to Delhi,UPSRTC - SJP0286,Ordinary Non AC Seater 2+3,21:00,04:20,07h 20m,INR 584,52 Seats available,No rating
+864,Shahjahanpur (Uttar Pradesh) to Delhi,UPSRTC - STD0144,Ordinary Non AC Seater 2+3,21:28,06:30,09h 02m,INR 563,52 Seats available,No rating
+865,Shahjahanpur (Uttar Pradesh) to Delhi,UPSRTC - GLA0141,Janrath AC Seater 2+2,21:35,05:05,07h 30m,INR 791,35 Seats available,3.3
+866,Shahjahanpur (Uttar Pradesh) to Delhi,UPSRTC - LKM0022,Shatabdi AC Seater 2+2,21:40,04:47,07h 07m,INR 791,37 Seats available,3.3
+867,Shahjahanpur (Uttar Pradesh) to Delhi,UPSRTC - SJP0288,Ordinary Non AC Seater 2+3,21:45,05:05,07h 20m,INR 584,52 Seats available,No rating
+868,Shahjahanpur (Uttar Pradesh) to Delhi,UPSRTC - STD0072,Janrath AC Seater 2+2,22:40,05:45,07h 05m,INR 768,36 Seats available,2.1
+869,Shahjahanpur (Uttar Pradesh) to Delhi,UPSRTC - LKM0024,Ordinary Non AC Seater 2+3,22:41,06:00,07h 19m,INR 552,41 Seats available,3.3
+870,Shahjahanpur (Uttar Pradesh) to Delhi,UPSRTC - LKM0028,Shatabdi AC Seater 2+2,22:56,06:01,07h 05m,INR 768,37 Seats available,3.3
+871,Shahjahanpur (Uttar Pradesh) to Delhi,UPSRTC - KSB0044,Janrath AC Seater 2+2,23:05,05:30,06h 25m,INR 768,36 Seats available,1.8
+872,Shahjahanpur (Uttar Pradesh) to Delhi,R S YADAV SMART BUS PRIVATE LIMITED,VE A/C Sleeper (2+1),22:45,06:05,07h 20m,INR 799,16 Seats available,4.4
+873,Lucknow to Azamgarh,UPSRTC - CBG0158,Janrath AC Seater 2+2,19:30,00:25,04h 55m,INR 666,36 Seats available,3.3
+874,Lucknow to Azamgarh,UPSRTC - AZR0027,Ordinary Non AC Seater 2+3,19:41,00:05,04h 24m,INR 421,52 Seats available,3.3
+875,Lucknow to Azamgarh,UPSRTC - AZS0023,Ordinary Non AC Seater 2+3,20:00,01:00,05h 00m,INR 457,52 Seats available,3.3
+876,Lucknow to Azamgarh,UPSRTC - AZS0021,Ordinary Non AC Seater 2+3,20:30,01:30,05h 00m,INR 457,52 Seats available,3.3
+877,Lucknow to Azamgarh,UPSRTC - GZP0018,Ordinary Non AC Seater 2+3,20:30,03:07,06h 37m,INR 411,52 Seats available,3.3
+878,Lucknow to Azamgarh,UPSRTC - CBG0159,Janrath AC Seater 2+2,20:30,01:15,04h 45m,INR 666,36 Seats available,3.3
+879,Lucknow to Azamgarh,UPSRTC - AZS0025,Ordinary Non AC Seater 2+3,21:00,02:00,05h 00m,INR 457,52 Seats available,3.3
+880,Lucknow to Azamgarh,UPSRTC - BTR0027,Ordinary Non AC Seater 2+3,22:10,06:31,08h 21m,INR 441,52 Seats available,3.3
+881,Lucknow to Azamgarh,UPSRTC - AZS0004,Janrath AC Seater 2+2,22:10,03:15,05h 05m,INR 666,33 Seats available,3.3
+882,Lucknow to Azamgarh,UPSRTC - GLA0144,Janrath AC Seater 2+2,22:55,04:14,05h 19m,INR 666,36 Seats available,3.3
+883,Lucknow to Azamgarh,UPSRTC - AZS0006,Janrath AC Seater 2+2,23:30,04:30,05h 00m,INR 666,36 Seats available,4.5
+884,Lucknow to Azamgarh,Ashok Tour And Travels,A/C Seater (2+1),19:30,22:45,03h 15m,INR 549,14 Seats available,3.1
+885,Lucknow to Azamgarh,Aadishakti Travels,Bharat Benz A/C Seater (2+2),22:30,03:00,04h 30m,INR 3000,45 Seats available,3.6
+886,Jaunpur to Lucknow,UPSRTC - KSH0001,Janrath AC Seater 2+2,19:55,02:15,06h 20m,INR 554,36 Seats available,3.3
+887,Jaunpur to Lucknow,UPSRTC - KSH0023,Ordinary Non AC Seater 2+3,20:07,02:47,06h 40m,INR 379,52 Seats available,No rating
+888,Jaunpur to Lucknow,UPSRTC - CBG0138,Janrath AC Seater 2+2,21:00,03:30,06h 30m,INR 554,36 Seats available,3.3
+889,Jaunpur to Lucknow,UPSRTC - CBG0045,Janrath AC Seater 2+2,21:32,03:30,05h 58m,INR 554,36 Seats available,3.3
+890,Jaunpur to Lucknow,UPSRTC - CBG0047,Janrath AC Seater 2+2,22:32,04:00,05h 28m,INR 554,36 Seats available,3.1
+891,Jaunpur to Lucknow,UPSRTC - ALM0157,Shatabdi AC Seater 2+2,22:52,04:02,05h 10m,INR 562,41 Seats available,3.3
+892,Jaunpur to Lucknow,UPSRTC - ALM0150,Volvo AC Seater 2+2,23:31,04:19,04h 48m,INR 800,35 Seats available,4.3
+893,Jaunpur to Lucknow,Yolo Bus,A/C Sleeper (2+1),23:49,05:49,06h 00m,INR 549,18 Seats available,3.6
+894,Jaunpur to Lucknow,Raj Kalpana Travels Pvt.Ltd,A/C Seater/Sleeper (2+1),21:45,01:45,04h 00m,1340,7 Seats available,4.6
+895,Jaunpur to Lucknow,Raj Kalpana Travels Pvt.Ltd,A/C Sleeper (2+1),19:00,23:30,04h 30m,INR 900,7 Seats available,4.6
+896,Jaunpur to Lucknow,R S YADAV SMART BUS PRIVATE LIMITED,A/C Seater / Sleeper (2+2),18:35,01:21,06h 46m,INR 1550,3 Seats available,4.4
+897,Jaunpur to Lucknow,Vinay Travels,VE A/C Seater / Sleeper (2+1),23:00,02:00,03h 00m,1490,13 Seats available,2.9
+898,Jaunpur to Lucknow,Khajuraho Travels,A/C Seater / Sleeper (2+1),19:20,23:50,04h 30m,1516,4 Seats available,3.7
+899,Jaunpur to Lucknow,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+1),19:20,00:50,05h 30m,1150,14 Seats available,3.7
+900,Jaunpur to Lucknow,HIGHWAY STAR TRAVEL & CARGO,A/C Seater / Sleeper (2+2),19:15,00:15,05h 00m,INR 1399,3 Seats available,3.1
+901,Kanpur (Uttar Pradesh) to Lucknow,UPSRTC - BUI0004,Ordinary Non AC Seater 2+3,19:30,21:00,01h 30m,INR 142,52 Seats available,3.3
+902,Kanpur (Uttar Pradesh) to Lucknow,UPSRTC - BRH0022,Ordinary Non AC Seater 2+3,19:30,21:40,02h 10m,INR 150,52 Seats available,3.3
+903,Kanpur (Uttar Pradesh) to Lucknow,UPSRTC - BLP0092,Ordinary Non AC Seater 2+3,20:00,22:45,02h 45m,INR 167,52 Seats available,3.3
+904,Kanpur (Uttar Pradesh) to Lucknow,UPSRTC - VKS0007,Janrath AC Seater 2+3,20:00,22:30,02h 30m,INR 188,48 Seats available,2.6
+905,Kanpur (Uttar Pradesh) to Lucknow,UPSRTC - MHB0007,Janrath AC Seater 2+2,20:30,22:12,01h 42m,INR 216,35 Seats available,1.0
+906,Kanpur (Uttar Pradesh) to Lucknow,UPSRTC - BLP0089,Ordinary Non AC Seater 2+3,20:30,23:45,03h 15m,INR 167,52 Seats available,3.3
+907,Kanpur (Uttar Pradesh) to Lucknow,UPSRTC - AYD0060,Ordinary Non AC Seater 2+3,21:00,23:00,02h 00m,INR 142,52 Seats available,3.3
+908,Kanpur (Uttar Pradesh) to Lucknow,UPSRTC - BRH0039,Ordinary Non AC Seater 2+3,21:00,23:00,02h 00m,INR 150,52 Seats available,3.3
+909,Kanpur (Uttar Pradesh) to Lucknow,UPSRTC - AKP0218,Ordinary Non AC Seater 2+3,21:02,23:35,02h 33m,INR 180,52 Seats available,3.3
+910,Kanpur (Uttar Pradesh) to Lucknow,UPSRTC - BLP0041,Ordinary Non AC Seater 2+3,21:30,00:20,02h 50m,INR 167,52 Seats available,3.3
+911,Kanpur (Uttar Pradesh) to Lucknow,UPSRTC - FZG0009,Ordinary Non AC Seater 2+3,21:30,00:30,03h 00m,INR 142,52 Seats available,3.3
+912,Kanpur (Uttar Pradesh) to Lucknow,UPSRTC - BRH0028,Ordinary Non AC Seater 2+3,21:30,23:40,02h 10m,INR 150,52 Seats available,3.3
+913,Kanpur (Uttar Pradesh) to Lucknow,UPSRTC - HMR0029,Ordinary Non AC Seater 2+3,22:00,00:30,02h 30m,INR 142,52 Seats available,3.3
+914,Kanpur (Uttar Pradesh) to Lucknow,UPSRTC - AYD0038,Ordinary Non AC Seater 2+3,22:00,01:00,03h 00m,INR 181,52 Seats available,3.3
+915,Kanpur (Uttar Pradesh) to Lucknow,UPSRTC - HMR0021,Ordinary Non AC Seater 2+3,22:00,00:00,02h 00m,INR 142,52 Seats available,3.3
+916,Kanpur (Uttar Pradesh) to Lucknow,UPSRTC - BRH0042,Ordinary Non AC Seater 2+3,22:00,00:10,02h 10m,INR 150,52 Seats available,3.3
+917,Kanpur (Uttar Pradesh) to Lucknow,UPSRTC - BLP0045,Ordinary Non AC Seater 2+3,22:15,02:05,03h 50m,INR 167,52 Seats available,3.3
+918,Kanpur (Uttar Pradesh) to Lucknow,UPSRTC - BLP0043,Ordinary Non AC Seater 2+3,23:00,01:30,02h 30m,INR 142,52 Seats available,3.3
+919,Kanpur (Uttar Pradesh) to Lucknow,UPSRTC - BLP0047,Ordinary Non AC Seater 2+3,23:59,03:40,03h 41m,INR 167,52 Seats available,3.3
+920,Kanpur (Uttar Pradesh) to Lucknow,Shatabdi Travels Gorakhpur,AC Sleeper (2+1),21:01,23:31,02h 30m,INR 700,5 Seats available,No rating
+921,Kanpur (Uttar Pradesh) to Lucknow,Samay Shatabdi Travels Pvt Ltd,AC Sleeper (2+1),21:01,23:01,02h 00m,INR 600,12 Seats available,4.3
+922,Kanpur (Uttar Pradesh) to Lucknow,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),19:30,22:45,03h 15m,462,29 Seats available,2.2
+923,Kanpur (Uttar Pradesh) to Lucknow,Samay Shatabdi Travels Pvt Ltd,AC Sleeper (2+1),18:15,21:15,03h 00m,INR 1599,22 Seats available,4.3
+924,Kanpur (Uttar Pradesh) to Lucknow,PTC-SKYBUS,A/C Seater/Sleeper (2+1),21:00,23:00,02h 00m,INR 1000,38 Seats available,4.6
+925,Agra to Haridwar,UPSRTC - TAJ0051,Janrath AC Seater 2+3,20:31,05:30,08h 59m,INR 766,47 Seats available,2.7
+926,Agra to Haridwar,UPSRTC - HTR0058,Ordinary Non AC Seater 2+3,22:20,08:15,09h 55m,INR 617,52 Seats available,3.3
+927,Agra to Haridwar,Baba Travels Mathura,VE A/C Sleeper (2+1),20:00,06:00,10h 00m,INR 899,5 Seats available,4.5
+928,Agra to Haridwar,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Sleeper (2+1),20:00,04:30,08h 30m,600,4 Seats available,3.7
+929,Agra to Haridwar,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Seater/Sleeper (2+1),23:59,07:30,07h 31m,INR 899,14 Seats available,3.9
+930,Agra to Haridwar,PTC-SKYBUS,VE A/C Seater / Sleeper (2+1),22:50,05:50,07h 00m,INR 1399,1 Seat available,4.7
+931,Agra to Haridwar,Shatabdi Travels,Bharat Benz A/C Sleeper (2+1),23:30,06:20,06h 50m,INR 899,6 Seats available,4.0
+932,Agra to Haridwar,Baba Travels Mathura,A/C Seater Push Back (2+2),20:30,05:00,08h 30m,INR 999,41 Seats available,4.2
+933,Lucknow to Gorakhpur (uttar pradesh),UPSRTC - HMR0035,Ordinary Non AC Seater 2+3,19:11,02:15,07h 04m,INR 417,52 Seats available,3.3
+934,Lucknow to Gorakhpur (uttar pradesh),UPSRTC - RPN0014,Janrath AC Seater 2+2,19:30,01:30,06h 00m,INR 670,36 Seats available,3.3
+935,Lucknow to Gorakhpur (uttar pradesh),UPSRTC - RPN0016,Janrath AC Seater 2+2,20:00,02:00,06h 00m,INR 670,36 Seats available,3.3
+936,Lucknow to Gorakhpur (uttar pradesh),UPSRTC - RPN0079,Janrath AC Seater 2+2,20:01,02:01,06h 00m,INR 670,36 Seats available,3.3
+937,Lucknow to Gorakhpur (uttar pradesh),UPSRTC - RPN0018,Janrath AC Seater 2+2,20:30,02:30,06h 00m,INR 670,36 Seats available,3.3
+938,Lucknow to Gorakhpur (uttar pradesh),UPSRTC - RPN0081,Janrath AC Seater 2+2,20:31,02:31,06h 00m,INR 670,36 Seats available,3.3
+939,Lucknow to Gorakhpur (uttar pradesh),UPSRTC - PAD0004,Rajdhani Non AC Seater 2+3,21:00,03:30,06h 30m,INR 451,51 Seats available,3.3
+940,Lucknow to Gorakhpur (uttar pradesh),UPSRTC - RPN0020,Janrath AC Seater 2+2,21:00,03:00,06h 00m,INR 670,36 Seats available,3.3
+941,Lucknow to Gorakhpur (uttar pradesh),UPSRTC - RPN0083,Janrath AC Seater 2+2,21:01,03:01,06h 00m,INR 670,36 Seats available,3.3
+942,Lucknow to Gorakhpur (uttar pradesh),UPSRTC - DOR0004,Rajdhani Non AC Seater 2+3,21:14,02:57,05h 43m,INR 425,51 Seats available,3.3
+943,Lucknow to Gorakhpur (uttar pradesh),UPSRTC - RPN0022,Janrath AC Seater 2+2,21:30,03:30,06h 00m,INR 670,36 Seats available,4.3
+944,Lucknow to Gorakhpur (uttar pradesh),UPSRTC - RPN0085,Janrath AC Seater 2+2,21:31,03:31,06h 00m,INR 670,36 Seats available,3.3
+945,Lucknow to Gorakhpur (uttar pradesh),UPSRTC - GKD0143,Janrath AC Seater 2+2,22:00,04:00,06h 00m,INR 670,36 Seats available,3.3
+946,Lucknow to Gorakhpur (uttar pradesh),UPSRTC - PAD0006,Rajdhani Non AC Seater 2+3,22:00,04:30,06h 30m,INR 451,51 Seats available,1.2
+947,Lucknow to Gorakhpur (uttar pradesh),UPSRTC - STD0374,Ordinary Non AC Seater 2+3,22:35,06:04,07h 29m,INR 425,52 Seats available,3.3
+948,Lucknow to Gorakhpur (uttar pradesh),UPSRTC - RPN0025,Pink Express AC Seater 2+2,23:00,05:00,06h 00m,INR 670,41 Seats available,1.8
+949,Lucknow to Gorakhpur (uttar pradesh),UPSRTC - VKS0007,Janrath AC Seater 2+3,23:00,05:30,06h 30m,INR 578,48 Seats available,1.0
+950,Lucknow to Gorakhpur (uttar pradesh),UPSRTC - MTH0021,Ordinary Non AC Seater 2+3,23:30,07:00,07h 30m,INR 447,52 Seats available,3.3
+951,Lucknow to Gorakhpur (uttar pradesh),Anshi Raj Shree Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:59,05:45,05h 46m,INR 1199,1 Seat available,3.9
+952,Lucknow to Gorakhpur (uttar pradesh),Shatabdi Travels Gorakhpur,AC Sleeper (2+1),23:46,05:48,06h 02m,INR 649,5 Seats available,3.8
+953,Lucknow to Gorakhpur (uttar pradesh),Samay Shatabdi Travels Pvt Ltd,NON A/C Sleeper (2+1),23:45,05:00,05h 15m,INR 499,15 Seats available,1.6
+954,Lucknow to Gorakhpur (uttar pradesh),Samay Shatabdi Travels Pvt Ltd,AC Sleeper (2+1),21:15,01:30,04h 15m,INR 1599,28 Seats available,1.9
+955,Lucknow to Gorakhpur (uttar pradesh),Maan Travels,NON AC Seater / Sleeper 2+1,23:55,04:00,04h 05m,INR 1050,27 Seats available,1.6
+956,Lucknow to Gorakhpur (uttar pradesh),Maa Laxmi Bihar Express,Non A/C Seater / Sleeper (2+1),22:30,05:00,06h 30m,INR 1700,8 Seats available,1.3
+957,Delhi to Haldwani,UPSRTC - RMP0018,Ordinary Non AC Seater 2+3,19:30,03:00,07h 30m,INR 478,52 Seats available,1.5
+958,Delhi to Haldwani,Fasttrack Travels,VE A/C Seater / Sleeper (2+2),22:20,05:15,06h 55m,499,24 Seats available,4.5
+959,Delhi to Haldwani,International Tourist Centre,VE A/C Seater / Sleeper (2+1),22:25,05:05,06h 40m,INR 449,31 Seats available,4.5
+960,Delhi to Haldwani,Laxmi holidays,VE A/C Seater / Sleeper (2+1),22:30,04:30,06h 00m,503,14 Seats available,4.3
+961,Delhi to Haldwani,R S YADAV SMART BUS PRIVATE LIMITED,Bharat Benz A/C Seater /Sleeper (2+1),22:00,05:00,07h 00m,617,19 Seats available,4.4
+962,Delhi to Haldwani,Laxmi holidays,VE A/C Sleeper (2+1),23:30,05:15,05h 45m,617,18 Seats available,4.4
+963,Delhi to Haldwani,Blueworld tourist private limited,A/C Seater / Sleeper (2+1),21:45,05:45,08h 00m,INR 499,22 Seats available,4.6
+964,Delhi to Haldwani,International Tourist Centre,VE A/C Seater / Sleeper (2+1),22:15,05:00,06h 45m,INR 499,30 Seats available,4.5
+965,Delhi to Haldwani,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),23:00,05:30,06h 30m,INR 574,37 Seats available,4.1
+966,Delhi to Haldwani,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),23:00,06:30,07h 30m,INR 434,38 Seats available,4.2
+967,Delhi to Haldwani,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:50,05:30,05h 40m,645,13 Seats available,4.5
+968,Delhi to Haldwani,Fasttrack Travels,A/C Seater/Sleeper (2+1),21:30,05:45,08h 15m,449,34 Seats available,4.4
+969,Delhi to Haldwani,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:00,05:00,06h 00m,626,10 Seats available,4.5
+970,Delhi to Haldwani,Blueworld tourist private limited,A/C Seater / Sleeper (2+1),20:50,05:25,08h 35m,INR 599,19 Seats available,3.9
+971,Delhi to Haldwani,Regal Cruiser Travels,A/C Seater/Sleeper (2+1),22:25,05:20,06h 55m,INR 1099,20 Seats available,3.5
+972,Delhi to Haldwani,Jagdamba tourism,A/C Seater / Sleeper (2+2),22:00,05:30,07h 30m,INR 499,31 Seats available,3.7
+973,Delhi to Haldwani,KVS Holidays,A/C Seater/Sleeper (2+1),22:00,05:15,07h 15m,INR 899,36 Seats available,3.3
+974,Delhi to Haldwani,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),22:45,06:45,08h 00m,INR 550,36 Seats available,3.6
+975,Delhi to Haldwani,DELHI TOUR & TRAVELS,A/C Seater / Sleeper (2+1),22:00,06:05,08h 05m,INR 899,24 Seats available,3.2
+976,Delhi to Haldwani,Shree Hare Rama Travels,VE A/C Semi Sleeper (2+2),23:55,07:00,07h 05m,474,17 Seats available,3.0
+977,Delhi to Haldwani,City Heart Travels (Regd.),Volvo A/C Seater / Sleeper (2+2),22:30,05:30,07h 00m,709,36 Seats available,3.2
+978,Delhi to Haldwani,FlixBus,A/C Seater (2+2),23:15,05:20,06h 05m,INR 493,27 Seats available,3.9
+979,Delhi to Haldwani,KVS Holidays,A/C Seater / Sleeper (2+2),22:10,05:25,07h 15m,INR 799,34 Seats available,3.3
+980,Delhi to Haldwani,VIP LUXURY TRIPS,A/C Seater / Sleeper (2+2),23:00,05:30,06h 30m,359,34 Seats available,2.6
+981,Delhi to Haldwani,City Heart Travels (Regd.),Volvo A/C Seater / Sleeper (2+2),22:30,05:00,06h 30m,989,33 Seats available,2.8
+982,Delhi to Haldwani,VIP LUXURY TRIPS,A/C Seater / Sleeper (2+2),22:45,05:50,07h 05m,314,41 Seats available,1.8
+983,Delhi to Haldwani,Aaikaa Travels Pvt Ltd,A/C Seater (2+2),22:15,06:00,07h 45m,INR 1499,18 Seats available,No rating
+984,Delhi to Haldwani,Shri Bawa Lal Tour and Travels,A/C Seater/Sleeper (2+1),23:00,06:30,07h 30m,INR 500,28 Seats available,No rating
+985,Delhi to Haldwani,Kainchi dham express,A/C Seater Tempo Traveller (2+1),21:00,04:30,07h 30m,INR 999,16 Seats available,No rating
